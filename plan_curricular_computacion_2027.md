@@ -5,7 +5,7 @@
 **Carga horaria:** dos períodos semanales de 40 minutos por grado.  
 **Lugar y equipo:** todas las clases en el laboratorio de computación, con computadoras PC con Windows.  
 **Bachillerato:** 4.º y 5.º de Bachillerato en Ciencias y Letras.  
-**Estado:** propuesta curricular y metodológica; aún no es una dosificación clase por clase ni un documento oficialmente homologado.
+**Estado:** mapa curricular general acompañado por planificaciones anuales de los 11 grados; propuesta didáctica, no homologación oficial.
 
 ## 1. Decisiones y criterios acordados
 
@@ -121,7 +121,7 @@ Estas proporciones son solo un punto de partida. Las clases pueden mezclar vario
 - **B3:** modelado de procesos, diagramas, pruebas, reglas y análisis de soluciones. **Producto:** manual de procedimiento y casos de prueba.
 - **B4:** ética, IA responsable, soporte y proyecto integrador. **Producto:** consultoría o mejora tecnológica.
 
-**Advertencia:** las propuestas de bachillerato deben validarse contra la especialidad y sus exigencias curriculares oficiales.
+Las propuestas de 4.º y 5.º se articulan con la subárea TIC del CNB general de Bachillerato en Ciencias y Letras. La implementación concreta debe ajustarse a los recursos del laboratorio y al calendario del centro.
 
 ## 4. Progresión vertical de habilidades
 
@@ -226,6 +226,13 @@ La planificación de **todo el año (B1–B4)** está reunida en un solo archivo
 
 Estos documentos usan el calendario institucional 2027 y el CNB de Guatemala como base, con CSTA, Computing de Inglaterra y Finlandia como referentes complementarios. Cada bimestre contempla las ventanas institucionales y alternativas en papel para las prácticas digitales.
 
+### Bachillerato en Ciencias y Letras
+
+- [4.º bachillerato — planificación anual](Cuarto_bachillerato_2027.md)
+- [5.º bachillerato — planificación anual](Quinto_bachillerato_2027.md)
+
+Ambos planes siguen la subárea TIC del CNB general de la carrera. 4.º trabaja operación de equipos, archivos, productividad, redes e investigación; 5.º progresa a comunicación web, bases de datos, consultas, automatización conceptual y proyectos probados. La programación textual no es eje ni requisito de estos planes.
+
 ## 8. Uso de Code.org
 
 - Introducir actividades visuales de secuencias, patrones, repeticiones, eventos, condiciones y depuración según la edad.
@@ -244,6 +251,7 @@ Estos documentos usan el calendario institucional 2027 y el CNB de Guatemala com
 - **CNB de quinto grado de primaria:** https://digecur.mineduc.gob.gt/wp-content/uploads/2026/10/CNB-Quinto-primaria.pdf
 - **CNB de sexto grado de primaria:** https://digecur.mineduc.gob.gt/wp-content/uploads/2026/10/CNB-Sexto-primaria.pdf
 - **CNB de Tecnologías del Aprendizaje y la Comunicación — ciclo básico:** https://digecur.mineduc.gob.gt/wp-content/uploads/2025/01/CNB-Tecnologias-del-Aprendizaje-y-la-Comunicacion-Ciclo-Basico-1.pdf
+- **CNB de Bachillerato en Ciencias y Letras — subárea TIC:** https://digecur.mineduc.gob.gt/wp-content/uploads/2025/06/A.-M.-379-2009-Bach.-en-Ciencias-y-letras.pdf
 - **CSTA K–12 Computer Science Standards (EE. UU.):** https://csteachers.org/pk12standards/
 - **Computing National Curriculum (Inglaterra):** https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study
 - **Finnish National Agency for Education, National Core Curriculum:** https://www.oph.fi/en/education-and-qualifications/national-core-curriculum-primary-and-lower-secondary-basic-education
@@ -254,9 +262,7 @@ Son **referencias de diseño** que enriquecen la progresión del CNB; no se pret
 ## 10. Pendientes para cerrar el proyecto
 
 1. Revisar la carga real de períodos de cada bimestre frente al calendario 2027 y sus actividades.
-2. Continuar las planificaciones completas de los grados pendientes, usando las de **1.º y 2.º primaria** como referencia de formato y progresión.
-3. Confirmar en la práctica del laboratorio si Paint está disponible en Windows y cuántos períodos se pierden por actividades institucionales; la unidad incluye alternativas en papel.
-4. Revisar los contenidos técnicos de bachillerato frente al CNB y a las obligaciones concretas del colegio para Bachillerato en Ciencias y Letras.
+2. Confirmar en la práctica del laboratorio la disponibilidad de programas y el efecto de las actividades institucionales; los planes incluyen alternativas en papel.
 
 ---
 

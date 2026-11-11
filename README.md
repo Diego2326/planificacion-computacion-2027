@@ -1,6 +1,6 @@
 # Planificación de Computación 2027
 
-Planificación anual de Computación para primaria, basada en el Currículo Nacional Base (CNB) de Guatemala y enriquecida con referentes curriculares internacionales.
+Planificación anual de Computación para primaria, ciclo básico y Bachillerato en Ciencias y Letras, basada en el Currículo Nacional Base (CNB) de Guatemala y enriquecida con referentes curriculares internacionales.
 
 ## Planificaciones anuales disponibles
 
@@ -15,9 +15,11 @@ Cada grado desarrollado tiene los cuatro bimestres reunidos en un solo archivo.
 - [1.º básico](Primero_basico_2027.md)
 - [2.º básico](Segundo_basico_2027.md)
 - [3.º básico](Tercero_basico_2027.md)
+- [4.º Bachillerato en Ciencias y Letras](Cuarto_bachillerato_2027.md)
+- [5.º Bachillerato en Ciencias y Letras](Quinto_bachillerato_2027.md)
 - [Mapa curricular general 2027](plan_curricular_computacion_2027.md)
 
-El mapa general presenta la progresión prevista para primaria, ciclo básico y Bachillerato en Ciencias y Letras. Las planificaciones anuales detalladas de primaria (1.º a 6.º) están reunidas en sus respectivos archivos; los demás grados se irán desarrollando.
+El mapa general presenta la progresión prevista para los 11 grados. Cada grado tiene su planificación anual con los cuatro bimestres reunidos en un archivo.
 
 ## Contexto de enseñanza
 
@@ -45,6 +47,8 @@ Estas planificaciones son propuestas didácticas de trabajo. Articulan Computaci
 - [CNB de 5.º primaria](https://digecur.mineduc.gob.gt/wp-content/uploads/2026/10/CNB-Quinto-primaria.pdf)
 - [CNB de 6.º primaria](https://digecur.mineduc.gob.gt/wp-content/uploads/2026/10/CNB-Sexto-primaria.pdf)
 - [CNB de TAC — ciclo básico](https://digecur.mineduc.gob.gt/wp-content/uploads/2025/01/CNB-Tecnologias-del-Aprendizaje-y-la-Comunicacion-Ciclo-Basico-1.pdf)
+- [CNB de Bachillerato en Ciencias y Letras — TIC de 4.º y 5.º](https://digecur.mineduc.gob.gt/wp-content/uploads/2025/06/A.-M.-379-2009-Bach.-en-Ciencias-y-letras.pdf)
+- [Carrera de Bachillerato en Ciencias y Letras — DIGECUR](https://digecur.mineduc.gob.gt/carreras-aplicacion/bachillerato-en-ciencias-y-letras/)
 - [CSTA PK–12 Computer Science Standards](https://csteachers.org/pk12standards/)
 - [Computing National Curriculum — Inglaterra](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study)
 - [National Core Curriculum — Finlandia](https://www.oph.fi/en/education-and-qualifications/national-core-curriculum-primary-and-lower-secondary-basic-education)
