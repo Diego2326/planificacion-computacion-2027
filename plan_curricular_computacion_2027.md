@@ -210,6 +210,14 @@ La planificación de **todo el año (B1–B4)** está reunida en un solo archivo
 
 La planificación de **todo el año (B1–B4)** está reunida en un solo archivo: [Cuarto_primaria_2027.md](Cuarto_primaria_2027.md). Incluye sistemas informáticos, informe con datos, algoritmos con decisiones y campaña educativa, además de materiales, evaluaciones y rúbricas.
 
+### 5.º primaria
+
+La planificación de **todo el año (B1–B4)** está reunida en un solo archivo: [Quinto_primaria_2027.md](Quinto_primaria_2027.md). Incluye sistemas y seguridad, análisis de datos con hoja de cálculo, algoritmos con decisiones y un reporte de investigación.
+
+### 6.º primaria
+
+La planificación de **todo el año (B1–B4)** está reunida en un solo archivo: [Sexto_primaria_2027.md](Sexto_primaria_2027.md). Incluye redes y nube, análisis de datos, algoritmos probados y un proyecto de mejora escolar con privacidad e IA responsable.
+
 Estos documentos usan el calendario institucional 2027 y el CNB de Guatemala como base, con CSTA, Computing de Inglaterra y Finlandia como referentes complementarios. Cada bimestre contempla las ventanas institucionales y alternativas en papel para las prácticas digitales.
 
 ## 8. Uso de Code.org
@@ -227,6 +235,8 @@ Estos documentos usan el calendario institucional 2027 y el CNB de Guatemala com
 - **CNB de segundo grado de primaria:** https://digecur.mineduc.gob.gt/wp-content/uploads/2025/01/2do-grado-CNB-1.pdf
 - **CNB de tercer grado de primaria:** https://digecur.mineduc.gob.gt/wp-content/uploads/2026/10/CNB-Tercero-primaria.pdf
 - **CNB de cuarto grado de primaria:** https://digecur.mineduc.gob.gt/wp-content/uploads/2026/10/CNB-Cuarto-primaria.pdf
+- **CNB de quinto grado de primaria:** https://digecur.mineduc.gob.gt/wp-content/uploads/2026/10/CNB-Quinto-primaria.pdf
+- **CNB de sexto grado de primaria:** https://digecur.mineduc.gob.gt/wp-content/uploads/2026/10/CNB-Sexto-primaria.pdf
 - **CSTA K–12 Computer Science Standards (EE. UU.):** https://csteachers.org/pk12standards/
 - **Computing National Curriculum (Inglaterra):** https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study
 - **Finnish National Agency for Education, National Core Curriculum:** https://www.oph.fi/en/education-and-qualifications/national-core-curriculum-primary-and-lower-secondary-basic-education

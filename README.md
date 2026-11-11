@@ -10,9 +10,11 @@ Cada grado desarrollado tiene los cuatro bimestres reunidos en un solo archivo.
 - [2.º primaria](Segundo_primaria_2027.md)
 - [3.º primaria](Tercero_primaria_2027.md)
 - [4.º primaria](Cuarto_primaria_2027.md)
+- [5.º primaria](Quinto_primaria_2027.md)
+- [6.º primaria](Sexto_primaria_2027.md)
 - [Mapa curricular general 2027](plan_curricular_computacion_2027.md)
 
-El mapa general presenta la progresión prevista para primaria, ciclo básico y Bachillerato en Ciencias y Letras. En este repositorio, las planificaciones anuales detalladas disponibles actualmente son las de 1.º a 4.º primaria; los demás grados se irán desarrollando.
+El mapa general presenta la progresión prevista para primaria, ciclo básico y Bachillerato en Ciencias y Letras. Las planificaciones anuales detalladas de primaria (1.º a 6.º) están reunidas en sus respectivos archivos; los demás grados se irán desarrollando.
 
 ## Contexto de enseñanza
 
@@ -37,6 +39,8 @@ Estas planificaciones son propuestas didácticas de trabajo. Articulan Computaci
 - [CNB de 2.º primaria](https://digecur.mineduc.gob.gt/wp-content/uploads/2025/01/2do-grado-CNB-1.pdf)
 - [CNB de 3.º primaria](https://digecur.mineduc.gob.gt/wp-content/uploads/2026/10/CNB-Tercero-primaria.pdf)
 - [CNB de 4.º primaria](https://digecur.mineduc.gob.gt/wp-content/uploads/2026/10/CNB-Cuarto-primaria.pdf)
+- [CNB de 5.º primaria](https://digecur.mineduc.gob.gt/wp-content/uploads/2026/10/CNB-Quinto-primaria.pdf)
+- [CNB de 6.º primaria](https://digecur.mineduc.gob.gt/wp-content/uploads/2026/10/CNB-Sexto-primaria.pdf)
 - [CSTA PK–12 Computer Science Standards](https://csteachers.org/pk12standards/)
 - [Computing National Curriculum — Inglaterra](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study)
 - [National Core Curriculum — Finlandia](https://www.oph.fi/en/education-and-qualifications/national-core-curriculum-primary-and-lower-secondary-basic-education)
