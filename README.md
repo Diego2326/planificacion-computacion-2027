@@ -35,6 +35,8 @@ El mapa general presenta la progresión prevista para los 11 grados. Cada índic
 
 Cada plan incluye dosificación por clases, ejercicios de cuaderno, hojas imprimibles con claves, tareas sin computadora, prácticas digitales, evaluaciones, productos, rúbricas y ponderación sugerida. Las fechas se cotejaron con el calendario institucional 2027 incluido en el repositorio; las cantidades de períodos son máximos potenciales y dependen del horario semanal real.
 
+Cada bimestre incorpora conceptos clave y una cápsula breve de historia de la computación, conectada con la práctica de la unidad y graduada por edad. Se propone usarla dentro de una sesión, sin sumar períodos.
+
 ## Criterios de uso
 
 Estas planificaciones son propuestas didácticas de trabajo. Articulan Computación con las áreas del CNB, pero no sustituyen el currículo oficial ni constituyen una homologación de estándares internacionales. Ajustar las fechas, recursos y ponderaciones al calendario y reglamento del centro educativo.
@@ -54,4 +56,9 @@ Estas planificaciones son propuestas didácticas de trabajo. Articulan Computaci
 - [CSTA PK–12 Computer Science Standards](https://csteachers.org/pk12standards/)
 - [Computing National Curriculum — Inglaterra](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study)
 - [National Core Curriculum — Finlandia](https://www.oph.fi/en/education-and-qualifications/national-core-curriculum-primary-and-lower-secondary-basic-education)
+- [Timeline of Computing History — Computer History Museum](https://computerhistory.org/timelines/)
+- [The Babbage Engine — Computer History Museum](https://www.computerhistory.org/babbage/history/)
+- [The Storage Engine — Computer History Museum](https://www.computerhistory.org/storageengine/timeline/)
+- [A Short History of the Web — CERN](https://home.cern/science/computing/the-birth-of-the-web/short-history-web/)
+- [A Relational Model of Data — IBM Research](https://research.ibm.com/publications/a-relational-model-of-data-for-large-shared-data-banks)
 

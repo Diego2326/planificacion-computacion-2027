@@ -19,6 +19,7 @@
 - Incluir desde la planificación **hojas de trabajo imprimibles, tareas, prácticas, actividades/retos, productos, parcial, heteroevaluación, rúbricas y claves de respuesta**. Evitar evaluaciones triviales basadas en abrir programas o escribir el nombre.
 - Mantener **cuatro bimestres conectados**, con productos y competencias que evolucionan. No repetir idénticos contenidos año tras año: profundizar el nivel de exigencia.
 - Tomar como base el **CNB de Guatemala** y enriquecer la propuesta con referentes de **CSTA (Estados Unidos), Computing de Inglaterra y competencias digitales de Finlandia**. La Computación se articulará con las áreas del CNB que correspondan; esta planificación no pretende ser una homologación oficial.
+- Incluir **teoría y contexto histórico** junto con la práctica: cada bimestre define conceptos clave y una cápsula histórica corta, adecuada al grado y relacionada con la unidad. Las fechas sirven para comprender cambios tecnológicos, no para memorizar cronologías.
 
 ## 2. Estructura anual
 
