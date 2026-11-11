@@ -218,6 +218,12 @@ La planificación de **todo el año (B1–B4)** está reunida en un solo archivo
 
 La planificación de **todo el año (B1–B4)** está reunida en un solo archivo: [Sexto_primaria_2027.md](Sexto_primaria_2027.md). Incluye redes y nube, análisis de datos, algoritmos probados y un proyecto de mejora escolar con privacidad e IA responsable.
 
+### Ciclo básico
+
+- [1.º básico — planificación anual](Primero_basico_2027.md)
+- [2.º básico — planificación anual](Segundo_basico_2027.md)
+- [3.º básico — planificación anual](Tercero_basico_2027.md)
+
 Estos documentos usan el calendario institucional 2027 y el CNB de Guatemala como base, con CSTA, Computing de Inglaterra y Finlandia como referentes complementarios. Cada bimestre contempla las ventanas institucionales y alternativas en papel para las prácticas digitales.
 
 ## 8. Uso de Code.org
@@ -237,6 +243,7 @@ Estos documentos usan el calendario institucional 2027 y el CNB de Guatemala com
 - **CNB de cuarto grado de primaria:** https://digecur.mineduc.gob.gt/wp-content/uploads/2026/10/CNB-Cuarto-primaria.pdf
 - **CNB de quinto grado de primaria:** https://digecur.mineduc.gob.gt/wp-content/uploads/2026/10/CNB-Quinto-primaria.pdf
 - **CNB de sexto grado de primaria:** https://digecur.mineduc.gob.gt/wp-content/uploads/2026/10/CNB-Sexto-primaria.pdf
+- **CNB de Tecnologías del Aprendizaje y la Comunicación — ciclo básico:** https://digecur.mineduc.gob.gt/wp-content/uploads/2025/01/CNB-Tecnologias-del-Aprendizaje-y-la-Comunicacion-Ciclo-Basico-1.pdf
 - **CSTA K–12 Computer Science Standards (EE. UU.):** https://csteachers.org/pk12standards/
 - **Computing National Curriculum (Inglaterra):** https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study
 - **Finnish National Agency for Education, National Core Curriculum:** https://www.oph.fi/en/education-and-qualifications/national-core-curriculum-primary-and-lower-secondary-basic-education
