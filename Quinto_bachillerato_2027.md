@@ -8,3 +8,5 @@ La planificación está dividida por bimestre para consultar y trabajar cada uni
 - [B4](B4.md)
 
 **Planificación anual en un archivo con branding del colegio:** [Planificacion_5_bachillerato_2027.docx](Bachillerato/5_bachillerato/Planificacion_5_bachillerato_2027.docx)
+
+**Solo hojas para imprimir:** [Imprimibles_5_bachillerato_2027.docx](Bachillerato/5_bachillerato/Imprimibles_5_bachillerato_2027.docx)

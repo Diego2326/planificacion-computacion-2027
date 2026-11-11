@@ -8,3 +8,5 @@ La planificación está dividida por bimestre para consultar y trabajar cada uni
 - [B4](B4.md)
 
 **Planificación anual en un archivo con branding del colegio:** [Planificacion_2_primaria_2027.docx](Primaria/2_primaria/Planificacion_2_primaria_2027.docx)
+
+**Solo hojas para imprimir:** [Imprimibles_2_primaria_2027.docx](Primaria/2_primaria/Imprimibles_2_primaria_2027.docx)
