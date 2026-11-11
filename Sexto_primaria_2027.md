@@ -11,4 +11,4 @@ La planificación está dividida por bimestre para consultar y trabajar cada uni
 
 **PDF completo y HTML editable:** [Anual_6_primaria_2027.pdf](Materiales_para_imprimir/Primaria/6_primaria/Anual_6_primaria_2027.pdf) · [HTML](Materiales_para_imprimir/Primaria/6_primaria/Editable_6_primaria_2027.html)
 
-**PDFs separados por bimestre:** [B1](Materiales_para_imprimir/Primaria/6_primaria/B1_6_primaria_2027.pdf) · [B2](Materiales_para_imprimir/Primaria/6_primaria/B2_6_primaria_2027.pdf) · [B3](Materiales_para_imprimir/Primaria/6_primaria/B3_6_primaria_2027.pdf) · [B4](Materiales_para_imprimir/Primaria/6_primaria/B4_6_primaria_2027.pdf)
+**Hojas imprimibles individuales:** [Abrir carpeta por bimestre](Materiales_para_imprimir/Primaria/6_primaria/Individuales/) · cada hoja también está enlazada dentro de B1–B4.

@@ -11,4 +11,4 @@ La planificación está dividida por bimestre para consultar y trabajar cada uni
 
 **PDF completo y HTML editable:** [Anual_5_primaria_2027.pdf](Materiales_para_imprimir/Primaria/5_primaria/Anual_5_primaria_2027.pdf) · [HTML](Materiales_para_imprimir/Primaria/5_primaria/Editable_5_primaria_2027.html)
 
-**PDFs separados por bimestre:** [B1](Materiales_para_imprimir/Primaria/5_primaria/B1_5_primaria_2027.pdf) · [B2](Materiales_para_imprimir/Primaria/5_primaria/B2_5_primaria_2027.pdf) · [B3](Materiales_para_imprimir/Primaria/5_primaria/B3_5_primaria_2027.pdf) · [B4](Materiales_para_imprimir/Primaria/5_primaria/B4_5_primaria_2027.pdf)
+**Hojas imprimibles individuales:** [Abrir carpeta por bimestre](Materiales_para_imprimir/Primaria/5_primaria/Individuales/) · cada hoja también está enlazada dentro de B1–B4.
