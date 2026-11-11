@@ -4,7 +4,7 @@ Planificación anual de Computación para primaria, ciclo básico y Bachillerato
 
 ## Navegador web
 
-Consulta los grados, abre cada planificación bimestral y descarga sus hojas imprimibles individuales desde el [navegador de Computación 2027](https://diego2326.github.io/planificacion-computacion-2027/). El código fuente Svelte está en [`navegador/`](navegador/).
+Consulta el contenido completo de cada planificación bimestral y descarga sus hojas imprimibles individuales desde el [navegador de Computación 2027](https://diego2326.github.io/planificacion-computacion-2027/). El código fuente Svelte está en [`navegador/`](navegador/).
 
 ## Planificaciones anuales disponibles
 

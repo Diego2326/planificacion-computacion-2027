@@ -2,3 +2,5 @@
 
 /navegador/node_modules/
 /navegador/dist/
+/navegador/public/plans/
+/navegador/public/plan-search.json

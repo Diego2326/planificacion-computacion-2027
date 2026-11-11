@@ -1,5 +1,6 @@
 <script>
   import { onMount } from 'svelte';
+  import { marked } from 'marked';
   import catalog from './lib/catalog.json';
 
   const baseUrl = import.meta.env.BASE_URL;
@@ -12,8 +13,16 @@
   let activeLevel = 'Primaria';
   let selectedGradeId = catalog.grades[0]?.id ?? '';
   let search = '';
-  let openBimester = 'B1';
+  let openBimester = '';
+  let shownPlanId = '';
   let theme = 'light';
+  let planHtmlCache = {};
+  let loadingPlanId = '';
+  let planLoadErrorId = '';
+  let planResults = [];
+  let planSearchLoading = false;
+  let planSearchPromise;
+  let searchTimer;
 
   onMount(() => {
     const saved = localStorage.getItem('planificacion-theme');
@@ -24,6 +33,12 @@
   $: currentGrades = catalog.grades.filter((grade) => grade.level === activeLevel);
   $: selectedGrade = catalog.grades.find((grade) => grade.id === selectedGradeId) ?? currentGrades[0];
   $: normalizedSearch = search.trim().toLocaleLowerCase('es');
+  $: if (normalizedSearch) schedulePlanSearch(normalizedSearch);
+  $: if (!normalizedSearch) {
+    clearTimeout(searchTimer);
+    planResults = [];
+    planSearchLoading = false;
+  }
   $: searchResults = normalizedSearch
     ? catalog.grades.flatMap((grade) => grade.bimesters.flatMap((bimester) =>
         bimester.sheets
@@ -35,12 +50,76 @@
     activeLevel = level;
     const first = catalog.grades.find((grade) => grade.level === level);
     if (first) selectedGradeId = first.id;
-    openBimester = 'B1';
+    openBimester = '';
+    shownPlanId = '';
   }
 
   function chooseGrade(grade) {
     selectedGradeId = grade.id;
-    openBimester = 'B1';
+    openBimester = '';
+    shownPlanId = '';
+  }
+
+  function schedulePlanSearch(query) {
+    clearTimeout(searchTimer);
+    planResults = [];
+    planSearchLoading = true;
+    searchTimer = setTimeout(() => runPlanSearch(query), 180);
+  }
+
+  async function runPlanSearch(query) {
+    try {
+      planSearchPromise ??= fetch(`${baseUrl}plan-search.json`).then((response) => {
+        if (!response.ok) throw new Error('No se pudo cargar el índice de búsqueda.');
+        return response.json();
+      });
+      const index = await planSearchPromise;
+      if (query !== normalizedSearch) return;
+      const matchingIds = new Set(index.filter((entry) => entry.text.includes(query)).map((entry) => entry.id));
+      planResults = catalog.grades.flatMap((grade) => grade.bimesters
+        .filter((bimester) => matchingIds.has(bimester.id))
+        .map((bimester) => ({ grade, bimester })));
+    } catch {
+      planResults = [];
+    } finally {
+      if (query === normalizedSearch) planSearchLoading = false;
+    }
+  }
+
+  async function loadPlan(bimester) {
+    if (planHtmlCache[bimester.id] || loadingPlanId === bimester.id) return;
+    loadingPlanId = bimester.id;
+    planLoadErrorId = '';
+    try {
+      const response = await fetch(`${baseUrl}${bimester.markdownPath}`);
+      if (!response.ok) throw new Error('No se pudo cargar el plan.');
+      const markdown = await response.text();
+      planHtmlCache = { ...planHtmlCache, [bimester.id]: marked.parse(markdown) };
+    } catch {
+      planLoadErrorId = bimester.id;
+    } finally {
+      if (loadingPlanId === bimester.id) loadingPlanId = '';
+    }
+  }
+
+  function togglePlan(bimester) {
+    openBimester = bimester.code;
+    if (shownPlanId === bimester.id) {
+      shownPlanId = '';
+      return;
+    }
+    shownPlanId = bimester.id;
+    loadPlan(bimester);
+  }
+
+  function showSearchPlan(result) {
+    activeLevel = result.grade.level;
+    selectedGradeId = result.grade.id;
+    openBimester = result.bimester.code;
+    shownPlanId = result.bimester.id;
+    search = '';
+    loadPlan(result.bimester);
+    setTimeout(() => document.getElementById(`plan-${result.bimester.id}`)?.scrollIntoView({ behavior: 'smooth', block: 'start' }), 0);
   }
 
   function toggleTheme() {
@@ -73,22 +152,35 @@
     <div>
       <p class="kicker">COLEGIO BILINGÜE MONTESSORI · 2027</p>
       <h1>Planificaciones de Computación</h1>
-      <p class="intro-text">Encuentra el plan de cada bimestre y abre sus hojas imprimibles individuales.</p>
+      <p class="intro-text">Consulta los planes completos por grado y bimestre, junto con sus hojas imprimibles individuales.</p>
     </div>
     <div class="catalog-counts"><strong>{counts.grades}</strong> grados <span>·</span> <strong>{counts.bimesters}</strong> bimestres <span>·</span> <strong>{counts.sheets}</strong> hojas</div>
   </section>
 
   <label class="search-field" for="site-search">
     <span aria-hidden="true">⌕</span>
-    <input id="site-search" bind:value={search} placeholder="Buscar grado, tema u hoja imprimible…" />
+    <input id="site-search" bind:value={search} placeholder="Buscar en planes y hojas imprimibles…" />
     {#if search}<button onclick={() => search = ''} aria-label="Limpiar búsqueda">×</button>{/if}
-    <kbd>⌘ K</kbd>
+    <kbd>Ctrl K</kbd>
   </label>
 
   {#if normalizedSearch}
     <section class="search-results">
-      <div class="section-title"><h2>Resultados</h2><span>{searchResults.length} {searchResults.length === 1 ? 'hoja' : 'hojas'}</span></div>
+      <div class="section-title"><h2>Resultados</h2><span>{planResults.length} planes · {searchResults.length} hojas</span></div>
+      {#if planResults.length}
+        <h3 class="results-subtitle">Planificaciones completas</h3>
+        <div class="result-list">
+          {#each planResults as result}
+            <button class="result-row result-button" onclick={() => showSearchPlan(result)}>
+              <span class="file-label plan-label">PLAN</span>
+              <span class="result-main"><strong>{result.bimester.title}</strong><small>{result.grade.label} · {result.bimester.code} · {result.bimester.label}</small></span>
+              <span class="open-mark" aria-hidden="true">↓</span>
+            </button>
+          {/each}
+        </div>
+      {/if}
       {#if searchResults.length}
+        <h3 class="results-subtitle">Hojas imprimibles</h3>
         <div class="result-list">
           {#each searchResults as result}
             <a class="result-row" href={result.url} target="_blank" rel="noreferrer">
@@ -98,8 +190,9 @@
             </a>
           {/each}
         </div>
-      {:else}
-        <p class="empty-state">No hay hojas que coincidan. Prueba otra búsqueda.</p>
+      {:else if !planResults.length && !planSearchLoading}
+        <p class="empty-state">No hay planes u hojas que coincidan. Prueba otra búsqueda.</p>
+      {:else if planSearchLoading}<p class="empty-state">Buscando en las planificaciones…</p>
       {/if}
     </section>
   {:else}
@@ -130,7 +223,7 @@
             </div>
           </div>
 
-          <div class="section-title bimesters-title"><h3>Bimestres</h3><span>Abre uno para ver sus imprimibles</span></div>
+          <div class="section-title bimesters-title"><h3>Planificación anual</h3><span>Cuatro unidades · planes completos y hojas por separado</span></div>
           <div class="bimester-list">
             {#each selectedGrade.bimesters as bimester}
               <article class="bimester">
@@ -140,7 +233,7 @@
                     <span class="bimester-name"><strong>{bimester.title}</strong><small>{bimester.label} · {bimester.sheets.length} hojas</small></span>
                     <span class="expand" aria-hidden="true">{openBimester === bimester.code ? '−' : '+'}</span>
                   </button>
-                  <a class="plan-link" href={bimester.planUrl} target="_blank" rel="noreferrer">Planificación <span>↗</span></a>
+                  <button class="plan-link" onclick={() => togglePlan(bimester)} aria-expanded={shownPlanId === bimester.id}>{shownPlanId === bimester.id ? 'Cerrar plan' : 'Plan completo'}</button>
                 </div>
                 {#if openBimester === bimester.code}
                   <div class="sheet-list">
@@ -152,6 +245,14 @@
                       </a>
                     {/each}
                   </div>
+                {/if}
+                {#if shownPlanId === bimester.id}
+                  <section class="full-plan" id={`plan-${bimester.id}`}>
+                    <div class="plan-toolbar"><strong>{bimester.label} · Planificación completa</strong><a href={bimester.planUrl} target="_blank" rel="noreferrer">Abrir Markdown original ↗</a></div>
+                    {#if loadingPlanId === bimester.id}<p class="plan-status">Cargando planificación…</p>
+                    {:else if planLoadErrorId === bimester.id}<p class="plan-status">No se pudo cargar el plan. <button onclick={() => loadPlan(bimester)}>Volver a intentar</button></p>
+                    {:else}<div class="markdown-content">{@html planHtmlCache[bimester.id] ?? ''}</div>{/if}
+                  </section>
                 {/if}
               </article>
             {/each}

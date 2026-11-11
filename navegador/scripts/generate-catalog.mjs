@@ -1,10 +1,11 @@
-import { readdir, readFile, access, writeFile } from 'node:fs/promises';
+import { readdir, readFile, access, mkdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url));
 const repoRoot = path.resolve(scriptDir, '../..');
 const output = path.resolve(scriptDir, '../src/lib/catalog.json');
+const publicDir = path.resolve(scriptDir, '../public');
 const repoUrl = 'https://github.com/Diego2326/planificacion-computacion-2027';
 const levels = [
   { folder: 'Primaria', label: 'Primaria' },
@@ -18,6 +19,17 @@ function githubUrl(relativePath, raw = false) {
   return raw
     ? `https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/${encoded}`
     : `${repoUrl}/blob/main/${encoded}`;
+}
+
+function webMarkdown(markdown, gradeDir) {
+  return markdown.replace(/\]\(([^)\s]+)([^)]*)\)/g, (whole, target, tail) => {
+    if (/^(?:https?:|mailto:|#)/i.test(target)) return whole;
+    const absolute = path.resolve(gradeDir, target);
+    const relative = path.relative(repoRoot, absolute);
+    if (relative.startsWith('..')) return whole;
+    const url = githubUrl(relative, path.extname(relative).toLowerCase() === '.pdf');
+    return `](${url}${tail})`;
+  });
 }
 
 function getUnitTitle(markdown, bimestreIndex) {
@@ -42,6 +54,7 @@ async function exists(filePath) {
 }
 
 const grades = [];
+const planSearchIndex = [];
 for (const level of levels) {
   const levelPath = path.join(repoRoot, level.folder);
   const dirs = (await readdir(levelPath, { withFileTypes: true }))
@@ -57,6 +70,11 @@ for (const level of levels) {
       const bimester = `B${b}`;
       const markdownPath = path.join(gradeDir, `${bimester}.md`);
       const markdown = await readFile(markdownPath, 'utf8');
+      const browserMarkdown = webMarkdown(markdown, gradeDir);
+      const markdownRelativePath = path.posix.join('plans', level.folder, slug, `${bimester}.md`);
+      const markdownOutput = path.join(publicDir, markdownRelativePath);
+      await mkdir(path.dirname(markdownOutput), { recursive: true });
+      await writeFile(markdownOutput, browserMarkdown);
       const sheets = [...markdown.matchAll(/- \[Hoja (\d+): (.*?) \(PDF\)\]\(([^)]+\.pdf)\)/g)]
         .map((match) => {
           const relativePdf = path.normalize(path.join(level.folder, slug, match[3]));
@@ -73,8 +91,10 @@ for (const level of levels) {
         label: bimestreNames[b - 1],
         title: getUnitTitle(markdown, b - 1),
         planUrl: githubUrl(relativePlan),
+        markdownPath: markdownRelativePath,
         sheets,
       });
+      planSearchIndex.push({ id: `${id}-${bimester.toLowerCase()}`, text: markdown.toLocaleLowerCase('es') });
     }
 
     const sampleMarkdown = await readFile(path.join(gradeDir, 'B1.md'), 'utf8');
@@ -100,4 +120,5 @@ for (const level of levels) {
 }
 
 await writeFile(output, `${JSON.stringify({ levels: levels.map(({ folder, label }) => ({ key: folder, label })), grades }, null, 2)}\n`);
+await writeFile(path.join(publicDir, 'plan-search.json'), `${JSON.stringify(planSearchIndex)}\n`);
 console.log(`Generated catalogue: ${grades.length} grades, ${grades.reduce((n, g) => n + g.bimesters.length, 0)} bimesters, ${grades.reduce((n, g) => n + g.sheetCount, 0)} individual sheets.`);

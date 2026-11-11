@@ -26,6 +26,7 @@
           "label": "Bimestre I",
           "title": "Descubro la tecnología y aprendo a dar instrucciones",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/1_primaria/B1.md",
+          "markdownPath": "plans/Primaria/1_primaria/B1.md",
           "sheets": [
             {
               "number": 1,
@@ -65,6 +66,7 @@
           "label": "Bimestre II",
           "title": "Controlo el mouse y dibujo en la computadora",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/1_primaria/B2.md",
+          "markdownPath": "plans/Primaria/1_primaria/B2.md",
           "sheets": [
             {
               "number": 1,
@@ -104,6 +106,7 @@
           "label": "Bimestre III",
           "title": "Pienso, doy instrucciones y corrijo rutas",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/1_primaria/B3.md",
+          "markdownPath": "plans/Primaria/1_primaria/B3.md",
           "sheets": [
             {
               "number": 1,
@@ -143,6 +146,7 @@
           "label": "Bimestre IV",
           "title": "Creo y guardo una composición digital",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/1_primaria/B4.md",
+          "markdownPath": "plans/Primaria/1_primaria/B4.md",
           "sheets": [
             {
               "number": 1,
@@ -194,6 +198,7 @@
           "label": "Bimestre I",
           "title": "Comprendo el sistema y doy instrucciones",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/2_primaria/B1.md",
+          "markdownPath": "plans/Primaria/2_primaria/B1.md",
           "sheets": [
             {
               "number": 1,
@@ -233,6 +238,7 @@
           "label": "Bimestre II",
           "title": "Organizo archivos y carpetas en Windows",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/2_primaria/B2.md",
+          "markdownPath": "plans/Primaria/2_primaria/B2.md",
           "sheets": [
             {
               "number": 1,
@@ -272,6 +278,7 @@
           "label": "Bimestre III",
           "title": "Encuentro patrones y repito instrucciones",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/2_primaria/B3.md",
+          "markdownPath": "plans/Primaria/2_primaria/B3.md",
           "sheets": [
             {
               "number": 1,
@@ -311,6 +318,7 @@
           "label": "Bimestre IV",
           "title": "Creo una presentación digital sencilla",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/2_primaria/B4.md",
+          "markdownPath": "plans/Primaria/2_primaria/B4.md",
           "sheets": [
             {
               "number": 1,
@@ -362,6 +370,7 @@
           "label": "Bimestre I",
           "title": "Organizo archivos y sigo rutas seguras",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/3_primaria/B1.md",
+          "markdownPath": "plans/Primaria/3_primaria/B1.md",
           "sheets": [
             {
               "number": 1,
@@ -401,6 +410,7 @@
           "label": "Bimestre II",
           "title": "Produzco y doy formato a un documento digital",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/3_primaria/B2.md",
+          "markdownPath": "plans/Primaria/3_primaria/B2.md",
           "sheets": [
             {
               "number": 1,
@@ -440,6 +450,7 @@
           "label": "Bimestre III",
           "title": "Diseño, pruebo y depuro algoritmos",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/3_primaria/B3.md",
+          "markdownPath": "plans/Primaria/3_primaria/B3.md",
           "sheets": [
             {
               "number": 1,
@@ -479,6 +490,7 @@
           "label": "Bimestre IV",
           "title": "Diseño una presentación para explicar un procedimiento digital",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/3_primaria/B4.md",
+          "markdownPath": "plans/Primaria/3_primaria/B4.md",
           "sheets": [
             {
               "number": 1,
@@ -530,6 +542,7 @@
           "label": "Bimestre I",
           "title": "Comprendo los componentes de un sistema",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/4_primaria/B1.md",
+          "markdownPath": "plans/Primaria/4_primaria/B1.md",
           "sheets": [
             {
               "number": 1,
@@ -569,6 +582,7 @@
           "label": "Bimestre II",
           "title": "Organizo datos y elaboro un informe",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/4_primaria/B2.md",
+          "markdownPath": "plans/Primaria/4_primaria/B2.md",
           "sheets": [
             {
               "number": 1,
@@ -608,6 +622,7 @@
           "label": "Bimestre III",
           "title": "Diseño algoritmos con decisiones y pruebas",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/4_primaria/B3.md",
+          "markdownPath": "plans/Primaria/4_primaria/B3.md",
           "sheets": [
             {
               "number": 1,
@@ -647,6 +662,7 @@
           "label": "Bimestre IV",
           "title": "Cuido la información y comunico una campaña",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/4_primaria/B4.md",
+          "markdownPath": "plans/Primaria/4_primaria/B4.md",
           "sheets": [
             {
               "number": 1,
@@ -698,6 +714,7 @@
           "label": "Bimestre I",
           "title": "Selecciono y cuido un sistema digital",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/5_primaria/B1.md",
+          "markdownPath": "plans/Primaria/5_primaria/B1.md",
           "sheets": [
             {
               "number": 1,
@@ -737,6 +754,7 @@
           "label": "Bimestre II",
           "title": "Analizo datos con una hoja de cálculo",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/5_primaria/B2.md",
+          "markdownPath": "plans/Primaria/5_primaria/B2.md",
           "sheets": [
             {
               "number": 1,
@@ -776,6 +794,7 @@
           "label": "Bimestre III",
           "title": "Diseño algoritmos con decisiones",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/5_primaria/B3.md",
+          "markdownPath": "plans/Primaria/5_primaria/B3.md",
           "sheets": [
             {
               "number": 1,
@@ -815,6 +834,7 @@
           "label": "Bimestre IV",
           "title": "Investigo y comunico con responsabilidad",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/5_primaria/B4.md",
+          "markdownPath": "plans/Primaria/5_primaria/B4.md",
           "sheets": [
             {
               "number": 1,
@@ -866,6 +886,7 @@
           "label": "Bimestre I",
           "title": "Diseño un sistema conectado y seguro",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/6_primaria/B1.md",
+          "markdownPath": "plans/Primaria/6_primaria/B1.md",
           "sheets": [
             {
               "number": 1,
@@ -905,6 +926,7 @@
           "label": "Bimestre II",
           "title": "Investigo y presento indicadores",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/6_primaria/B2.md",
+          "markdownPath": "plans/Primaria/6_primaria/B2.md",
           "sheets": [
             {
               "number": 1,
@@ -944,6 +966,7 @@
           "label": "Bimestre III",
           "title": "Modelo una solución y la pruebo",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/6_primaria/B3.md",
+          "markdownPath": "plans/Primaria/6_primaria/B3.md",
           "sheets": [
             {
               "number": 1,
@@ -983,6 +1006,7 @@
           "label": "Bimestre IV",
           "title": "Propongo una mejora digital responsable",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/6_primaria/B4.md",
+          "markdownPath": "plans/Primaria/6_primaria/B4.md",
           "sheets": [
             {
               "number": 1,
@@ -1034,6 +1058,7 @@
           "label": "Bimestre I",
           "title": "Comprendo y selecciono un sistema",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/1_basico/B1.md",
+          "markdownPath": "plans/Basico/1_basico/B1.md",
           "sheets": [
             {
               "number": 1,
@@ -1073,6 +1098,7 @@
           "label": "Bimestre II",
           "title": "Documento, tabla y presupuesto",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/1_basico/B2.md",
+          "markdownPath": "plans/Basico/1_basico/B2.md",
           "sheets": [
             {
               "number": 1,
@@ -1112,6 +1138,7 @@
           "label": "Bimestre III",
           "title": "Represento una solución con algoritmos",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/1_basico/B3.md",
+          "markdownPath": "plans/Basico/1_basico/B3.md",
           "sheets": [
             {
               "number": 1,
@@ -1151,6 +1178,7 @@
           "label": "Bimestre IV",
           "title": "Huella digital e IA responsable",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/1_basico/B4.md",
+          "markdownPath": "plans/Basico/1_basico/B4.md",
           "sheets": [
             {
               "number": 1,
@@ -1202,6 +1230,7 @@
           "label": "Bimestre I",
           "title": "Diseño una red apropiada",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/2_basico/B1.md",
+          "markdownPath": "plans/Basico/2_basico/B1.md",
           "sheets": [
             {
               "number": 1,
@@ -1241,6 +1270,7 @@
           "label": "Bimestre II",
           "title": "Administro datos y elaboro documentos formales",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/2_basico/B2.md",
+          "markdownPath": "plans/Basico/2_basico/B2.md",
           "sheets": [
             {
               "number": 1,
@@ -1280,6 +1310,7 @@
           "label": "Bimestre III",
           "title": "Construyo una tabla de decisiones",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/2_basico/B3.md",
+          "markdownPath": "plans/Basico/2_basico/B3.md",
           "sheets": [
             {
               "number": 1,
@@ -1319,6 +1350,7 @@
           "label": "Bimestre IV",
           "title": "Organizo información digital con criterio",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/2_basico/B4.md",
+          "markdownPath": "plans/Basico/2_basico/B4.md",
           "sheets": [
             {
               "number": 1,
@@ -1370,6 +1402,7 @@
           "label": "Bimestre I",
           "title": "Analizo un incidente digital",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/3_basico/B1.md",
+          "markdownPath": "plans/Basico/3_basico/B1.md",
           "sheets": [
             {
               "number": 1,
@@ -1409,6 +1442,7 @@
           "label": "Bimestre II",
           "title": "Analizo datos y documento decisiones",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/3_basico/B2.md",
+          "markdownPath": "plans/Basico/3_basico/B2.md",
           "sheets": [
             {
               "number": 1,
@@ -1448,6 +1482,7 @@
           "label": "Bimestre III",
           "title": "Documento un procedimiento probado",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/3_basico/B3.md",
+          "markdownPath": "plans/Basico/3_basico/B3.md",
           "sheets": [
             {
               "number": 1,
@@ -1487,6 +1522,7 @@
           "label": "Bimestre IV",
           "title": "Proyecto tecnológico responsable",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/3_basico/B4.md",
+          "markdownPath": "plans/Basico/3_basico/B4.md",
           "sheets": [
             {
               "number": 1,
@@ -1538,6 +1574,7 @@
           "label": "Bimestre I",
           "title": "Opero y documento un entorno digital",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Bachillerato/4_bachillerato/B1.md",
+          "markdownPath": "plans/Bachillerato/4_bachillerato/B1.md",
           "sheets": [
             {
               "number": 1,
@@ -1577,6 +1614,7 @@
           "label": "Bimestre II",
           "title": "Investigo, analizo y comunico información",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Bachillerato/4_bachillerato/B2.md",
+          "markdownPath": "plans/Bachillerato/4_bachillerato/B2.md",
           "sheets": [
             {
               "number": 1,
@@ -1616,6 +1654,7 @@
           "label": "Bimestre III",
           "title": "Organizo datos en una base consultable",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Bachillerato/4_bachillerato/B3.md",
+          "markdownPath": "plans/Bachillerato/4_bachillerato/B3.md",
           "sheets": [
             {
               "number": 1,
@@ -1655,6 +1694,7 @@
           "label": "Bimestre IV",
           "title": "Diseño una solución TIC responsable",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Bachillerato/4_bachillerato/B4.md",
+          "markdownPath": "plans/Bachillerato/4_bachillerato/B4.md",
           "sheets": [
             {
               "number": 1,
@@ -1706,6 +1746,7 @@
           "label": "Bimestre I",
           "title": "Comunico y publico información de forma responsable",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Bachillerato/5_bachillerato/B1.md",
+          "markdownPath": "plans/Bachillerato/5_bachillerato/B1.md",
           "sheets": [
             {
               "number": 1,
@@ -1745,6 +1786,7 @@
           "label": "Bimestre II",
           "title": "Diseño datos y consultas útiles",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Bachillerato/5_bachillerato/B2.md",
+          "markdownPath": "plans/Bachillerato/5_bachillerato/B2.md",
           "sheets": [
             {
               "number": 1,
@@ -1784,6 +1826,7 @@
           "label": "Bimestre III",
           "title": "Analizo y automatizo una hoja de cálculo",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Bachillerato/5_bachillerato/B3.md",
+          "markdownPath": "plans/Bachillerato/5_bachillerato/B3.md",
           "sheets": [
             {
               "number": 1,
@@ -1823,6 +1866,7 @@
           "label": "Bimestre IV",
           "title": "Integro un proyecto TIC probado",
           "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Bachillerato/5_bachillerato/B4.md",
+          "markdownPath": "plans/Bachillerato/5_bachillerato/B4.md",
           "sheets": [
             {
               "number": 1,
