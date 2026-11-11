@@ -1,0 +1,1866 @@
+{
+  "levels": [
+    {
+      "key": "Primaria",
+      "label": "Primaria"
+    },
+    {
+      "key": "Basico",
+      "label": "Básico"
+    },
+    {
+      "key": "Bachillerato",
+      "label": "Bachillerato"
+    }
+  ],
+  "grades": [
+    {
+      "id": "primaria-1_primaria",
+      "label": "1.º primaria",
+      "level": "Primaria",
+      "levelKey": "Primaria",
+      "bimesters": [
+        {
+          "id": "primaria-1_primaria-b1",
+          "code": "B1",
+          "label": "Bimestre I",
+          "title": "Descubro la tecnología y aprendo a dar instrucciones",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/1_primaria/B1.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Conozco la computadora",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B1/01_conozco_la_computadora.pdf"
+            },
+            {
+              "number": 2,
+              "title": "¿Entra o se muestra?",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B1/02_entra_o_se_muestra.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Ordeno los pasos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B1/03_ordeno_los_pasos.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Robot en la cuadrícula",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B1/04_robot_en_la_cuadricula.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Patrones y errores",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B1/05_patrones_y_errores.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Cuido el laboratorio",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B1/06_cuido_el_laboratorio.pdf"
+            }
+          ]
+        },
+        {
+          "id": "primaria-1_primaria-b2",
+          "code": "B2",
+          "label": "Bimestre II",
+          "title": "Controlo el mouse y dibujo en la computadora",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/1_primaria/B2.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Camino del puntero",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B2/01_camino_del_puntero.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Seleccionar o arrastrar",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B2/02_seleccionar_o_arrastrar.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Partes de una ventana",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B2/03_partes_de_una_ventana.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Herramientas de dibujo",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B2/04_herramientas_de_dibujo.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Corrijo mi dibujo",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B2/05_corrijo_mi_dibujo.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Archivo o carpeta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B2/06_archivo_o_carpeta.pdf"
+            }
+          ]
+        },
+        {
+          "id": "primaria-1_primaria-b3",
+          "code": "B3",
+          "label": "Bimestre III",
+          "title": "Pienso, doy instrucciones y corrijo rutas",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/1_primaria/B3.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Ordeno tres pasos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B3/01_ordeno_tres_pasos.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Sigo las flechas",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B3/02_sigo_las_flechas.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Llego a la estrella",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B3/03_llego_a_la_estrella.pdf"
+            },
+            {
+              "number": 4,
+              "title": "¿Qué camino se repite?",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B3/04_que_camino_se_repite.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Corrijo la ruta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B3/05_corrijo_la_ruta.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Planifico mi reto",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B3/06_planifico_mi_reto.pdf"
+            }
+          ]
+        },
+        {
+          "id": "primaria-1_primaria-b4",
+          "code": "B4",
+          "label": "Bimestre IV",
+          "title": "Creo y guardo una composición digital",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/1_primaria/B4.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Partes del editor",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B4/01_partes_del_editor.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Elijo la herramienta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B4/02_elijo_la_herramienta.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Muevo y cambio tamaño",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B4/03_muevo_y_cambio_tamano.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Orden de pasos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B4/04_orden_de_pasos.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Corrijo una acción",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B4/05_corrijo_una_accion.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Revisión segura",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Individuales/B4/06_revision_segura.pdf"
+            }
+          ]
+        }
+      ],
+      "sheetCount": 24,
+      "yearPdfUrl": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/1_primaria/Anual_1_primaria_2027.pdf",
+      "htmlUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Materiales_para_imprimir/Primaria/1_primaria/Editable_1_primaria_2027.html",
+      "planningDocxUrl": null
+    },
+    {
+      "id": "primaria-2_primaria",
+      "label": "2.º primaria",
+      "level": "Primaria",
+      "levelKey": "Primaria",
+      "bimesters": [
+        {
+          "id": "primaria-2_primaria-b1",
+          "code": "B1",
+          "label": "Bimestre I",
+          "title": "Comprendo el sistema y doy instrucciones",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/2_primaria/B1.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Partes y funciones",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B1/01_partes_y_funciones.pdf"
+            },
+            {
+              "number": 2,
+              "title": "¿Se toca o se ve en la pantalla?",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B1/02_se_toca_o_se_ve_en_la_pantalla.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Entrada y respuesta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B1/03_entrada_y_respuesta.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Ordeno el procedimiento",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B1/04_ordeno_el_procedimiento.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Sigo una ruta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B1/05_sigo_una_ruta.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Cuido y pido ayuda",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B1/06_cuido_y_pido_ayuda.pdf"
+            }
+          ]
+        },
+        {
+          "id": "primaria-2_primaria-b2",
+          "code": "B2",
+          "label": "Bimestre II",
+          "title": "Organizo archivos y carpetas en Windows",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/2_primaria/B2.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Archivo o carpeta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B2/01_archivo_o_carpeta.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Sigo la ruta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B2/02_sigo_la_ruta.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Elijo nombres",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B2/03_elijo_nombres.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Copio o muevo",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B2/04_copio_o_muevo.pdf"
+            },
+            {
+              "number": 5,
+              "title": "¿Dónde quedó?",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B2/05_donde_quedo.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Recupero mi trabajo",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B2/06_recupero_mi_trabajo.pdf"
+            }
+          ]
+        },
+        {
+          "id": "primaria-2_primaria-b3",
+          "code": "B3",
+          "label": "Bimestre III",
+          "title": "Encuentro patrones y repito instrucciones",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/2_primaria/B3.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Completo el patrón",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B3/01_completo_el_patron.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Sigo direcciones",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B3/02_sigo_direcciones.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Evento y respuesta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B3/03_evento_y_respuesta.pdf"
+            },
+            {
+              "number": 4,
+              "title": "¿Qué se repite?",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B3/04_que_se_repite.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Corrijo la ruta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B3/05_corrijo_la_ruta.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Pruebo mi algoritmo",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B3/06_pruebo_mi_algoritmo.pdf"
+            }
+          ]
+        },
+        {
+          "id": "primaria-2_primaria-b4",
+          "code": "B4",
+          "label": "Bimestre IV",
+          "title": "Creo una presentación digital sencilla",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/2_primaria/B4.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Partes de la presentación",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B4/01_partes_de_la_presentacion.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Elijo diseño",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B4/02_elijo_diseno.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Formas y tamaños",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B4/03_formas_y_tamanos.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Ordeno pasos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B4/04_ordeno_pasos.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Vista de presentación",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B4/05_vista_de_presentacion.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Guardo y recupero",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Individuales/B4/06_guardo_y_recupero.pdf"
+            }
+          ]
+        }
+      ],
+      "sheetCount": 24,
+      "yearPdfUrl": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/2_primaria/Anual_2_primaria_2027.pdf",
+      "htmlUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Materiales_para_imprimir/Primaria/2_primaria/Editable_2_primaria_2027.html",
+      "planningDocxUrl": null
+    },
+    {
+      "id": "primaria-3_primaria",
+      "label": "3.º primaria",
+      "level": "Primaria",
+      "levelKey": "Primaria",
+      "bimesters": [
+        {
+          "id": "primaria-3_primaria-b1",
+          "code": "B1",
+          "label": "Bimestre I",
+          "title": "Organizo archivos y sigo rutas seguras",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/3_primaria/B1.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Archivo o carpeta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B1/01_archivo_o_carpeta.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Pongo un nombre claro",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B1/02_pongo_un_nombre_claro.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Clasifico archivos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B1/03_clasifico_archivos.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Sigo el árbol",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B1/04_sigo_el_arbol.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Selecciono una fuente local",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B1/05_selecciono_una_fuente_local.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Navego con cuidado",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B1/06_navego_con_cuidado.pdf"
+            }
+          ]
+        },
+        {
+          "id": "primaria-3_primaria-b2",
+          "code": "B2",
+          "label": "Bimestre II",
+          "title": "Produzco y doy formato a un documento digital",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/3_primaria/B2.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Interfaz del procesador",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B2/01_interfaz_del_procesador.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Selecciono y edito",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B2/02_selecciono_y_edito.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Formato indicado",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B2/03_formato_indicado.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Lista de procedimiento",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B2/04_lista_de_procedimiento.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Tabla de dispositivos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B2/05_tabla_de_dispositivos.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Imagen y archivo",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B2/06_imagen_y_archivo.pdf"
+            }
+          ]
+        },
+        {
+          "id": "primaria-3_primaria-b3",
+          "code": "B3",
+          "label": "Bimestre III",
+          "title": "Diseño, pruebo y depuro algoritmos",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/3_primaria/B3.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Sigo el algoritmo",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B3/01_sigo_el_algoritmo.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Encuentro una repetición",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B3/02_encuentro_una_repeticion.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Evento y respuesta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B3/03_evento_y_respuesta.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Depuro la ruta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B3/04_depuro_la_ruta.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Pruebo antes de decidir",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B3/05_pruebo_antes_de_decidir.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Documento mi solución",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B3/06_documento_mi_solucion.pdf"
+            }
+          ]
+        },
+        {
+          "id": "primaria-3_primaria-b4",
+          "code": "B4",
+          "label": "Bimestre IV",
+          "title": "Diseño una presentación para explicar un procedimiento digital",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/3_primaria/B4.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Partes del presentador",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B4/01_partes_del_presentador.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Secuencia de tarea",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B4/02_secuencia_de_tarea.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Diseño legible",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B4/03_diseno_legible.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Falta un paso",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B4/04_falta_un_paso.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Navego y presento",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B4/05_navego_y_presento.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Guardo el proyecto",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Individuales/B4/06_guardo_el_proyecto.pdf"
+            }
+          ]
+        }
+      ],
+      "sheetCount": 24,
+      "yearPdfUrl": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/3_primaria/Anual_3_primaria_2027.pdf",
+      "htmlUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Materiales_para_imprimir/Primaria/3_primaria/Editable_3_primaria_2027.html",
+      "planningDocxUrl": null
+    },
+    {
+      "id": "primaria-4_primaria",
+      "label": "4.º primaria",
+      "level": "Primaria",
+      "levelKey": "Primaria",
+      "bimesters": [
+        {
+          "id": "primaria-4_primaria-b1",
+          "code": "B1",
+          "label": "Bimestre I",
+          "title": "Comprendo los componentes de un sistema",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/4_primaria/B1.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "¿Entrada, proceso o salida?",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B1/01_entrada_proceso_o_salida.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Hardware o software",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B1/02_hardware_o_software.pdf"
+            },
+            {
+              "number": 3,
+              "title": "¿Qué función cumple?",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B1/03_que_funcion_cumple.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Flujo de información",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B1/04_flujo_de_informacion.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Local o conectado",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B1/05_local_o_conectado.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Seguridad del equipo",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B1/06_seguridad_del_equipo.pdf"
+            }
+          ]
+        },
+        {
+          "id": "primaria-4_primaria-b2",
+          "code": "B2",
+          "label": "Bimestre II",
+          "title": "Organizo datos y elaboro un informe",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/4_primaria/B2.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Registro de datos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B2/01_registro_de_datos.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Tabla con encabezados",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B2/02_tabla_con_encabezados.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Interpreto el gráfico",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B2/03_interpreto_el_grafico.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Una conclusión con evidencia",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B2/04_una_conclusion_con_evidencia.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Ordeno el informe",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B2/05_ordeno_el_informe.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Reviso mi informe",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B2/06_reviso_mi_informe.pdf"
+            }
+          ]
+        },
+        {
+          "id": "primaria-4_primaria-b3",
+          "code": "B3",
+          "label": "Bimestre III",
+          "title": "Diseño algoritmos con decisiones y pruebas",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/4_primaria/B3.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Ordeno y diagramo",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B3/01_ordeno_y_diagramo.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Una decisión, dos caminos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B3/02_una_decision_dos_caminos.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Represento repetición",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B3/03_represento_repeticion.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Trazo los casos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B3/04_trazo_los_casos.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Depuro el diagrama",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B3/05_depuro_el_diagrama.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Diseño un reto y lo pruebo",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B3/06_diseno_un_reto_y_lo_pruebo.pdf"
+            }
+          ]
+        },
+        {
+          "id": "primaria-4_primaria-b4",
+          "code": "B4",
+          "label": "Bimestre IV",
+          "title": "Cuido la información y comunico una campaña",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/4_primaria/B4.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Dato, recomendación u opinión",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B4/01_dato_recomendacion_u_opinion.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Protejo mis datos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B4/02_protejo_mis_datos.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Mensaje sospechoso",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B4/03_mensaje_sospechoso.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Identifico la fuente",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B4/04_identifico_la_fuente.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Permiso y atribución",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B4/05_permiso_y_atribucion.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Reviso mi campaña",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Individuales/B4/06_reviso_mi_campana.pdf"
+            }
+          ]
+        }
+      ],
+      "sheetCount": 24,
+      "yearPdfUrl": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/4_primaria/Anual_4_primaria_2027.pdf",
+      "htmlUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Materiales_para_imprimir/Primaria/4_primaria/Editable_4_primaria_2027.html",
+      "planningDocxUrl": null
+    },
+    {
+      "id": "primaria-5_primaria",
+      "label": "5.º primaria",
+      "level": "Primaria",
+      "levelKey": "Primaria",
+      "bimesters": [
+        {
+          "id": "primaria-5_primaria-b1",
+          "code": "B1",
+          "label": "Bimestre I",
+          "title": "Selecciono y cuido un sistema digital",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/5_primaria/B1.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Componentes",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B1/01_componentes.pdf"
+            },
+            {
+              "number": 2,
+              "title": "¿Qué equipo elegir?",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B1/02_que_equipo_elegir.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Red de aula",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B1/03_red_de_aula.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Contraseña segura",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B1/04_contrasena_segura.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Mensaje dudoso",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B1/05_mensaje_dudoso.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Ficha de comparación",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B1/06_ficha_de_comparacion.pdf"
+            }
+          ]
+        },
+        {
+          "id": "primaria-5_primaria-b2",
+          "code": "B2",
+          "label": "Bimestre II",
+          "title": "Analizo datos con una hoja de cálculo",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/5_primaria/B2.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Datos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B2/01_datos.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Tabla",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B2/02_tabla.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Fórmula",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B2/03_formula.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Gráfico",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B2/04_grafico.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Conclusión",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B2/05_conclusion.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Revisión",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B2/06_revision.pdf"
+            }
+          ]
+        },
+        {
+          "id": "primaria-5_primaria-b3",
+          "code": "B3",
+          "label": "Bimestre III",
+          "title": "Diseño algoritmos con decisiones",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/5_primaria/B3.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Secuencia",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B3/01_secuencia.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Condición",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B3/02_condicion.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Repetición",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B3/03_repeticion.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Casos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B3/04_casos.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Depuración",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B3/05_depuracion.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Tabla de prueba entrada/esperado/observado/cambio",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B3/06_tabla_de_prueba_entrada_esperado_observado_cambio.pdf"
+            }
+          ]
+        },
+        {
+          "id": "primaria-5_primaria-b4",
+          "code": "B4",
+          "label": "Bimestre IV",
+          "title": "Investigo y comunico con responsabilidad",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/5_primaria/B4.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Dato/opinión/pregunta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B4/01_dato_opinion_pregunta.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Ficha de fuente",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B4/02_ficha_de_fuente.pdf"
+            },
+            {
+              "number": 3,
+              "title": "IA",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B4/03_ia.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Privacidad",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B4/04_privacidad.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Licencia/autoría",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B4/05_licencia_autoria.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Lista de revisión",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Individuales/B4/06_lista_de_revision.pdf"
+            }
+          ]
+        }
+      ],
+      "sheetCount": 24,
+      "yearPdfUrl": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/5_primaria/Anual_5_primaria_2027.pdf",
+      "htmlUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Materiales_para_imprimir/Primaria/5_primaria/Editable_5_primaria_2027.html",
+      "planningDocxUrl": null
+    },
+    {
+      "id": "primaria-6_primaria",
+      "label": "6.º primaria",
+      "level": "Primaria",
+      "levelKey": "Primaria",
+      "bimesters": [
+        {
+          "id": "primaria-6_primaria-b1",
+          "code": "B1",
+          "label": "Bimestre I",
+          "title": "Diseño un sistema conectado y seguro",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/6_primaria/B1.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Sistema",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B1/01_sistema.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Local o nube",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B1/02_local_o_nube.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Red",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B1/03_red.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Permisos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B1/04_permisos.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Phishing",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B1/05_phishing.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Plan de respaldo",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B1/06_plan_de_respaldo.pdf"
+            }
+          ]
+        },
+        {
+          "id": "primaria-6_primaria-b2",
+          "code": "B2",
+          "label": "Bimestre II",
+          "title": "Investigo y presento indicadores",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/6_primaria/B2.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Valores 8,10,6,8",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B2/01_valores_8_10_6_8.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Tabla por categoría",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B2/02_tabla_por_categoria.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Referencias de hoja",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B2/03_referencias_de_hoja.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Gráfico de barras",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B2/04_grafico_de_barras.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Conclusión válida",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B2/05_conclusion_valida.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Revisión",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B2/06_revision.pdf"
+            }
+          ]
+        },
+        {
+          "id": "primaria-6_primaria-b3",
+          "code": "B3",
+          "label": "Bimestre III",
+          "title": "Modelo una solución y la pruebo",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/6_primaria/B3.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Secuencia de rutina",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B3/01_secuencia_de_rutina.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Condición",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B3/02_condicion.pdf"
+            },
+            {
+              "number": 3,
+              "title": "Ciclo",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B3/03_ciclo.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Variable",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B3/04_variable.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Depuración",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B3/05_depuracion.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Casos de prueba",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B3/06_casos_de_prueba.pdf"
+            }
+          ]
+        },
+        {
+          "id": "primaria-6_primaria-b4",
+          "code": "B4",
+          "label": "Bimestre IV",
+          "title": "Propongo una mejora digital responsable",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Primaria/6_primaria/B4.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "Necesidad/solución",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B4/01_necesidad_solucion.pdf"
+            },
+            {
+              "number": 2,
+              "title": "Datos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B4/02_datos.pdf"
+            },
+            {
+              "number": 3,
+              "title": "IA",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B4/03_ia.pdf"
+            },
+            {
+              "number": 4,
+              "title": "Fuente",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B4/04_fuente.pdf"
+            },
+            {
+              "number": 5,
+              "title": "Riesgos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B4/05_riesgos.pdf"
+            },
+            {
+              "number": 6,
+              "title": "Revisión del proyecto",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Individuales/B4/06_revision_del_proyecto.pdf"
+            }
+          ]
+        }
+      ],
+      "sheetCount": 24,
+      "yearPdfUrl": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Primaria/6_primaria/Anual_6_primaria_2027.pdf",
+      "htmlUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Materiales_para_imprimir/Primaria/6_primaria/Editable_6_primaria_2027.html",
+      "planningDocxUrl": null
+    },
+    {
+      "id": "basico-1_basico",
+      "label": "1.º básico",
+      "level": "Básico",
+      "levelKey": "Basico",
+      "bimesters": [
+        {
+          "id": "basico-1_basico-b1",
+          "code": "B1",
+          "label": "Bimestre I",
+          "title": "Comprendo y selecciono un sistema",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/1_basico/B1.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "hardware/software",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B1/01_hardware_software.pdf"
+            },
+            {
+              "number": 2,
+              "title": "flujo",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B1/02_flujo.pdf"
+            },
+            {
+              "number": 3,
+              "title": "memoria",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B1/03_memoria.pdf"
+            },
+            {
+              "number": 4,
+              "title": "ficha técnica",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B1/04_ficha_tecnica.pdf"
+            },
+            {
+              "number": 5,
+              "title": "seguridad",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B1/05_seguridad.pdf"
+            },
+            {
+              "number": 6,
+              "title": "matriz de equipo",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B1/06_matriz_de_equipo.pdf"
+            }
+          ]
+        },
+        {
+          "id": "basico-1_basico-b2",
+          "code": "B2",
+          "label": "Bimestre II",
+          "title": "Documento, tabla y presupuesto",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/1_basico/B2.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "plantilla de encabezados",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B2/01_plantilla_de_encabezados.pdf"
+            },
+            {
+              "number": 2,
+              "title": "presupuesto con subtotal y total",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B2/02_presupuesto_con_subtotal_y_total.pdf"
+            },
+            {
+              "number": 3,
+              "title": "promedio de 6,8,10",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B2/03_promedio_de_6_8_10.pdf"
+            },
+            {
+              "number": 4,
+              "title": "gráfico con tres categorías",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B2/04_grafico_con_tres_categorias.pdf"
+            },
+            {
+              "number": 5,
+              "title": "conclusión basada en diferencia",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B2/05_conclusion_basada_en_diferencia.pdf"
+            },
+            {
+              "number": 6,
+              "title": "cita de título/autor",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B2/06_cita_de_titulo_autor.pdf"
+            }
+          ]
+        },
+        {
+          "id": "basico-1_basico-b3",
+          "code": "B3",
+          "label": "Bimestre III",
+          "title": "Represento una solución con algoritmos",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/1_basico/B3.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "diagrama de rutina",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B3/01_diagrama_de_rutina.pdf"
+            },
+            {
+              "number": 2,
+              "title": "condición sí/no",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B3/02_condicion_si_no.pdf"
+            },
+            {
+              "number": 3,
+              "title": "expandir repetir 3 veces",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B3/03_expandir_repetir_3_veces.pdf"
+            },
+            {
+              "number": 4,
+              "title": "trazar entrada/salida",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B3/04_trazar_entrada_salida.pdf"
+            },
+            {
+              "number": 5,
+              "title": "error por flecha invertida",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B3/05_error_por_flecha_invertida.pdf"
+            },
+            {
+              "number": 6,
+              "title": "tabla de prueba abierta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B3/06_tabla_de_prueba_abierta.pdf"
+            }
+          ]
+        },
+        {
+          "id": "basico-1_basico-b4",
+          "code": "B4",
+          "label": "Bimestre IV",
+          "title": "Huella digital e IA responsable",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/1_basico/B4.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "clasificar datos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B4/01_clasificar_datos.pdf"
+            },
+            {
+              "number": 2,
+              "title": "mensaje sospechoso",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B4/02_mensaje_sospechoso.pdf"
+            },
+            {
+              "number": 3,
+              "title": "verificar afirmación con dos fuentes",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B4/03_verificar_afirmacion_con_dos_fuentes.pdf"
+            },
+            {
+              "number": 4,
+              "title": "sesgo/error de IA",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B4/04_sesgo_error_de_ia.pdf"
+            },
+            {
+              "number": 5,
+              "title": "atribución",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B4/05_atribucion.pdf"
+            },
+            {
+              "number": 6,
+              "title": "lista de privacidad abierta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Individuales/B4/06_lista_de_privacidad_abierta.pdf"
+            }
+          ]
+        }
+      ],
+      "sheetCount": 24,
+      "yearPdfUrl": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/1_basico/Anual_1_basico_2027.pdf",
+      "htmlUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Materiales_para_imprimir/Basico/1_basico/Editable_1_basico_2027.html",
+      "planningDocxUrl": null
+    },
+    {
+      "id": "basico-2_basico",
+      "label": "2.º básico",
+      "level": "Básico",
+      "levelKey": "Basico",
+      "bimesters": [
+        {
+          "id": "basico-2_basico-b1",
+          "code": "B1",
+          "label": "Bimestre I",
+          "title": "Diseño una red apropiada",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/2_basico/B1.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "símbolos de red",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B1/01_simbolos_de_red.pdf"
+            },
+            {
+              "number": 2,
+              "title": "LAN vs Internet",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B1/02_lan_vs_internet.pdf"
+            },
+            {
+              "number": 3,
+              "title": "escoger topología según plano",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B1/03_escoger_topologia_segun_plano.pdf"
+            },
+            {
+              "number": 4,
+              "title": "diagnosticar “no hay conexión”",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B1/04_diagnosticar_no_hay_conexion.pdf"
+            },
+            {
+              "number": 5,
+              "title": "riesgo de red abierta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B1/05_riesgo_de_red_abierta.pdf"
+            },
+            {
+              "number": 6,
+              "title": "plantilla abierta de diseño",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B1/06_plantilla_abierta_de_diseno.pdf"
+            }
+          ]
+        },
+        {
+          "id": "basico-2_basico-b2",
+          "code": "B2",
+          "label": "Bimestre II",
+          "title": "Administro datos y elaboro documentos formales",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/2_basico/B2.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "tabla de inventario con total",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B2/01_tabla_de_inventario_con_total.pdf"
+            },
+            {
+              "number": 2,
+              "title": "promedio de 10,15,20",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B2/02_promedio_de_10_15_20.pdf"
+            },
+            {
+              "number": 3,
+              "title": "filtro por categoría",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B2/03_filtro_por_categoria.pdf"
+            },
+            {
+              "number": 4,
+              "title": "SI si cantidad<5, reponer",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B2/04_si_si_cantidad_5_reponer.pdf"
+            },
+            {
+              "number": 5,
+              "title": "gráfico",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B2/05_grafico.pdf"
+            },
+            {
+              "number": 6,
+              "title": "revisión/cita",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B2/06_revision_cita.pdf"
+            }
+          ]
+        },
+        {
+          "id": "basico-2_basico-b3",
+          "code": "B3",
+          "label": "Bimestre III",
+          "title": "Construyo una tabla de decisiones",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/2_basico/B3.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "AND ambos verdaderos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B3/01_and_ambos_verdaderos.pdf"
+            },
+            {
+              "number": 2,
+              "title": "OR al menos uno",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B3/02_or_al_menos_uno.pdf"
+            },
+            {
+              "number": 3,
+              "title": "tablas de 2 condiciones",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B3/03_tablas_de_2_condiciones.pdf"
+            },
+            {
+              "number": 4,
+              "title": "detectar regla inalcanzable",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B3/04_detectar_regla_inalcanzable.pdf"
+            },
+            {
+              "number": 5,
+              "title": "casos normal/límite",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B3/05_casos_normal_limite.pdf"
+            },
+            {
+              "number": 6,
+              "title": "ficha de pruebas abierta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B3/06_ficha_de_pruebas_abierta.pdf"
+            }
+          ]
+        },
+        {
+          "id": "basico-2_basico-b4",
+          "code": "B4",
+          "label": "Bimestre IV",
+          "title": "Organizo información digital con criterio",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/2_basico/B4.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "clasificar público/privado",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B4/01_clasificar_publico_privado.pdf"
+            },
+            {
+              "number": 2,
+              "title": "nombres de archivo seguros",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B4/02_nombres_de_archivo_seguros.pdf"
+            },
+            {
+              "number": 3,
+              "title": "respaldo",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B4/03_respaldo.pdf"
+            },
+            {
+              "number": 4,
+              "title": "cotejo de fuente",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B4/04_cotejo_de_fuente.pdf"
+            },
+            {
+              "number": 5,
+              "title": "mensaje sospechoso",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B4/05_mensaje_sospechoso.pdf"
+            },
+            {
+              "number": 6,
+              "title": "plan de acceso, clave abierta y coherente",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Individuales/B4/06_plan_de_acceso_clave_abierta_y_coherente.pdf"
+            }
+          ]
+        }
+      ],
+      "sheetCount": 24,
+      "yearPdfUrl": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/2_basico/Anual_2_basico_2027.pdf",
+      "htmlUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Materiales_para_imprimir/Basico/2_basico/Editable_2_basico_2027.html",
+      "planningDocxUrl": null
+    },
+    {
+      "id": "basico-3_basico",
+      "label": "3.º básico",
+      "level": "Básico",
+      "levelKey": "Basico",
+      "bimesters": [
+        {
+          "id": "basico-3_basico-b1",
+          "code": "B1",
+          "label": "Bimestre I",
+          "title": "Analizo un incidente digital",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/3_basico/B1.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "acceso por roles",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B1/01_acceso_por_roles.pdf"
+            },
+            {
+              "number": 2,
+              "title": "extensión/archivo inesperado",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B1/02_extension_archivo_inesperado.pdf"
+            },
+            {
+              "number": 3,
+              "title": "caso de phishing",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B1/03_caso_de_phishing.pdf"
+            },
+            {
+              "number": 4,
+              "title": "cronología",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B1/04_cronologia.pdf"
+            },
+            {
+              "number": 5,
+              "title": "hechos vs inferencias",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B1/05_hechos_vs_inferencias.pdf"
+            },
+            {
+              "number": 6,
+              "title": "plantilla de incidente",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B1/06_plantilla_de_incidente.pdf"
+            }
+          ]
+        },
+        {
+          "id": "basico-3_basico-b2",
+          "code": "B2",
+          "label": "Bimestre II",
+          "title": "Analizo datos y documento decisiones",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/3_basico/B2.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "SUMA de rango",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B2/01_suma_de_rango.pdf"
+            },
+            {
+              "number": 2,
+              "title": "promedio correcto",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B2/02_promedio_correcto.pdf"
+            },
+            {
+              "number": 3,
+              "title": "CONTAR.SI según condición",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B2/03_contar_si_segun_condicion.pdf"
+            },
+            {
+              "number": 4,
+              "title": "tabla con error deliberado",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B2/04_tabla_con_error_deliberado.pdf"
+            },
+            {
+              "number": 5,
+              "title": "gráfico interpretado",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B2/05_grafico_interpretado.pdf"
+            },
+            {
+              "number": 6,
+              "title": "conclusión no causal",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B2/06_conclusion_no_causal.pdf"
+            }
+          ]
+        },
+        {
+          "id": "basico-3_basico-b3",
+          "code": "B3",
+          "label": "Bimestre III",
+          "title": "Documento un procedimiento probado",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/3_basico/B3.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "algoritmo de proceso",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B3/01_algoritmo_de_proceso.pdf"
+            },
+            {
+              "number": 2,
+              "title": "diagrama",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B3/02_diagrama.pdf"
+            },
+            {
+              "number": 3,
+              "title": "condición simple",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B3/03_condicion_simple.pdf"
+            },
+            {
+              "number": 4,
+              "title": "ciclo con contador conceptual",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B3/04_ciclo_con_contador_conceptual.pdf"
+            },
+            {
+              "number": 5,
+              "title": "tabla esperado/observado",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B3/05_tabla_esperado_observado.pdf"
+            },
+            {
+              "number": 6,
+              "title": "corrección abierta con justificación",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B3/06_correccion_abierta_con_justificacion.pdf"
+            }
+          ]
+        },
+        {
+          "id": "basico-3_basico-b4",
+          "code": "B4",
+          "label": "Bimestre IV",
+          "title": "Proyecto tecnológico responsable",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Basico/3_basico/B4.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "mapa de actores",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B4/01_mapa_de_actores.pdf"
+            },
+            {
+              "number": 2,
+              "title": "fuente y evidencia",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B4/02_fuente_y_evidencia.pdf"
+            },
+            {
+              "number": 3,
+              "title": "IA respuesta y verificación",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B4/03_ia_respuesta_y_verificacion.pdf"
+            },
+            {
+              "number": 4,
+              "title": "privacidad",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B4/04_privacidad.pdf"
+            },
+            {
+              "number": 5,
+              "title": "prueba de prototipo",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B4/05_prueba_de_prototipo.pdf"
+            },
+            {
+              "number": 6,
+              "title": "checklist de atribución/viabilidad",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Individuales/B4/06_checklist_de_atribucion_viabilidad.pdf"
+            }
+          ]
+        }
+      ],
+      "sheetCount": 24,
+      "yearPdfUrl": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Basico/3_basico/Anual_3_basico_2027.pdf",
+      "htmlUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Materiales_para_imprimir/Basico/3_basico/Editable_3_basico_2027.html",
+      "planningDocxUrl": null
+    },
+    {
+      "id": "bachillerato-4_bachillerato",
+      "label": "4.º Bachillerato en Ciencias y Letras",
+      "level": "Bachillerato",
+      "levelKey": "Bachillerato",
+      "bimesters": [
+        {
+          "id": "bachillerato-4_bachillerato-b1",
+          "code": "B1",
+          "label": "Bimestre I",
+          "title": "Opero y documento un entorno digital",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Bachillerato/4_bachillerato/B1.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "componentes",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B1/01_componentes.pdf"
+            },
+            {
+              "number": 2,
+              "title": "extensión",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B1/02_extension.pdf"
+            },
+            {
+              "number": 3,
+              "title": "ruta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B1/03_ruta.pdf"
+            },
+            {
+              "number": 4,
+              "title": "respaldo",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B1/04_respaldo.pdf"
+            },
+            {
+              "number": 5,
+              "title": "incidente",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B1/05_incidente.pdf"
+            },
+            {
+              "number": 6,
+              "title": "ficha diagnóstica",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B1/06_ficha_diagnostica.pdf"
+            }
+          ]
+        },
+        {
+          "id": "bachillerato-4_bachillerato-b2",
+          "code": "B2",
+          "label": "Bimestre II",
+          "title": "Investigo, analizo y comunico información",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Bachillerato/4_bachillerato/B2.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "comparar fuentes con autor/fecha/evidencia",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B2/01_comparar_fuentes_con_autor_fecha_evidencia.pdf"
+            },
+            {
+              "number": 2,
+              "title": "ordenar notas en secciones",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B2/02_ordenar_notas_en_secciones.pdf"
+            },
+            {
+              "number": 3,
+              "title": "detectar tabla con encabezados ambiguos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B2/03_detectar_tabla_con_encabezados_ambiguos.pdf"
+            },
+            {
+              "number": 4,
+              "title": "calcular suma y promedio",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B2/04_calcular_suma_y_promedio.pdf"
+            },
+            {
+              "number": 5,
+              "title": "elegir barras para categorías y líneas para cambios",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B2/05_elegir_barras_para_categorias_y_lineas_para_cambio.pdf"
+            },
+            {
+              "number": 6,
+              "title": "revisar conclusión contra datos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B2/06_revisar_conclusion_contra_datos.pdf"
+            }
+          ]
+        },
+        {
+          "id": "bachillerato-4_bachillerato-b3",
+          "code": "B3",
+          "label": "Bimestre III",
+          "title": "Organizo datos en una base consultable",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Bachillerato/4_bachillerato/B3.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "elegir campos mínimos para catálogo ficticio",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B3/01_elegir_campos_minimos_para_catalogo_ficticio.pdf"
+            },
+            {
+              "number": 2,
+              "title": "identificar ID único",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B3/02_identificar_id_unico.pdf"
+            },
+            {
+              "number": 3,
+              "title": "localizar duplicados y valores inconsistentes",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B3/03_localizar_duplicados_y_valores_inconsistentes.pdf"
+            },
+            {
+              "number": 4,
+              "title": "filtrar por dos criterios en tabla de muestra",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B3/04_filtrar_por_dos_criterios_en_tabla_de_muestra.pdf"
+            },
+            {
+              "number": 5,
+              "title": "relacionar tablas por código coincidente",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B3/05_relacionar_tablas_por_codigo_coincidente.pdf"
+            },
+            {
+              "number": 6,
+              "title": "corregir un reporte cuya pregunta no",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B3/06_corregir_un_reporte_cuya_pregunta_no.pdf"
+            }
+          ]
+        },
+        {
+          "id": "bachillerato-4_bachillerato-b4",
+          "code": "B4",
+          "label": "Bimestre IV",
+          "title": "Diseño una solución TIC responsable",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Bachillerato/4_bachillerato/B4.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "mapa de actores",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B4/01_mapa_de_actores.pdf"
+            },
+            {
+              "number": 2,
+              "title": "matriz de selección ponderada",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B4/02_matriz_de_seleccion_ponderada.pdf"
+            },
+            {
+              "number": 3,
+              "title": "caso de fuente dudosa",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B4/03_caso_de_fuente_dudosa.pdf"
+            },
+            {
+              "number": 4,
+              "title": "datos innecesarios",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B4/04_datos_innecesarios.pdf"
+            },
+            {
+              "number": 5,
+              "title": "prueba de prototipo",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B4/05_prueba_de_prototipo.pdf"
+            },
+            {
+              "number": 6,
+              "title": "revisión de impacto",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Individuales/B4/06_revision_de_impacto.pdf"
+            }
+          ]
+        }
+      ],
+      "sheetCount": 24,
+      "yearPdfUrl": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Anual_4_bachillerato_2027.pdf",
+      "htmlUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Materiales_para_imprimir/Bachillerato/4_bachillerato/Editable_4_bachillerato_2027.html",
+      "planningDocxUrl": null
+    },
+    {
+      "id": "bachillerato-5_bachillerato",
+      "label": "5.º Bachillerato en Ciencias y Letras",
+      "level": "Bachillerato",
+      "levelKey": "Bachillerato",
+      "bimesters": [
+        {
+          "id": "bachillerato-5_bachillerato-b1",
+          "code": "B1",
+          "label": "Bimestre I",
+          "title": "Comunico y publico información de forma responsable",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Bachillerato/5_bachillerato/B1.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "evaluar fuente por autor, evidencia y fecha",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B1/01_evaluar_fuente_por_autor_evidencia_y_fecha.pdf"
+            },
+            {
+              "number": 2,
+              "title": "mapa del sitio con navegación coherente",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B1/02_mapa_del_sitio_con_navegacion_coherente.pdf"
+            },
+            {
+              "number": 3,
+              "title": "jerarquizar encabezados",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B1/03_jerarquizar_encabezados.pdf"
+            },
+            {
+              "number": 4,
+              "title": "atribución",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B1/04_atribucion.pdf"
+            },
+            {
+              "number": 5,
+              "title": "correo sospechoso",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B1/05_correo_sospechoso.pdf"
+            },
+            {
+              "number": 6,
+              "title": "lista de privacidad/accesibilidad",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B1/06_lista_de_privacidad_accesibilidad.pdf"
+            }
+          ]
+        },
+        {
+          "id": "bachillerato-5_bachillerato-b2",
+          "code": "B2",
+          "label": "Bimestre II",
+          "title": "Diseño datos y consultas útiles",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Bachillerato/5_bachillerato/B2.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "diseño de catálogo",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B2/01_diseno_de_catalogo.pdf"
+            },
+            {
+              "number": 2,
+              "title": "tipo de dato adecuado",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B2/02_tipo_de_dato_adecuado.pdf"
+            },
+            {
+              "number": 3,
+              "title": "identificar clave única",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B2/03_identificar_clave_unica.pdf"
+            },
+            {
+              "number": 4,
+              "title": "detectar registros inconsistentes",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B2/04_detectar_registros_inconsistentes.pdf"
+            },
+            {
+              "number": 5,
+              "title": "filtrar por condición y explicar selección",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B2/05_filtrar_por_condicion_y_explicar_seleccion.pdf"
+            },
+            {
+              "number": 6,
+              "title": "informe",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B2/06_informe.pdf"
+            }
+          ]
+        },
+        {
+          "id": "bachillerato-5_bachillerato-b3",
+          "code": "B3",
+          "label": "Bimestre III",
+          "title": "Analizo y automatizo una hoja de cálculo",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Bachillerato/5_bachillerato/B3.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "corregir referencias en fórmula copiada",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B3/01_corregir_referencias_en_formula_copiada.pdf"
+            },
+            {
+              "number": 2,
+              "title": "suma/promedio/conteo con dataset pequeño",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B3/02_suma_promedio_conteo_con_dataset_pequeno.pdf"
+            },
+            {
+              "number": 3,
+              "title": "SI con umbral dado",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B3/03_si_con_umbral_dado.pdf"
+            },
+            {
+              "number": 4,
+              "title": "detectar división por cero/dato vacío",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B3/04_detectar_division_por_cero_dato_vacio.pdf"
+            },
+            {
+              "number": 5,
+              "title": "gráfico correcto según pregunta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B3/05_grafico_correcto_segun_pregunta.pdf"
+            },
+            {
+              "number": 6,
+              "title": "caso de macro desconocida",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B3/06_caso_de_macro_desconocida.pdf"
+            }
+          ]
+        },
+        {
+          "id": "bachillerato-5_bachillerato-b4",
+          "code": "B4",
+          "label": "Bimestre IV",
+          "title": "Integro un proyecto TIC probado",
+          "planUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Bachillerato/5_bachillerato/B4.md",
+          "sheets": [
+            {
+              "number": 1,
+              "title": "mapa de problema",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B4/01_mapa_de_problema.pdf"
+            },
+            {
+              "number": 2,
+              "title": "matriz de herramienta",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B4/02_matriz_de_herramienta.pdf"
+            },
+            {
+              "number": 3,
+              "title": "hoja de riesgos",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B4/03_hoja_de_riesgos.pdf"
+            },
+            {
+              "number": 4,
+              "title": "plan de prueba",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B4/04_plan_de_prueba.pdf"
+            },
+            {
+              "number": 5,
+              "title": "registro de cambios",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B4/05_registro_de_cambios.pdf"
+            },
+            {
+              "number": 6,
+              "title": "revisión final",
+              "url": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Individuales/B4/06_revision_final.pdf"
+            }
+          ]
+        }
+      ],
+      "sheetCount": 24,
+      "yearPdfUrl": "https://raw.githubusercontent.com/Diego2326/planificacion-computacion-2027/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Anual_5_bachillerato_2027.pdf",
+      "htmlUrl": "https://github.com/Diego2326/planificacion-computacion-2027/blob/main/Materiales_para_imprimir/Bachillerato/5_bachillerato/Editable_5_bachillerato_2027.html",
+      "planningDocxUrl": null
+    }
+  ]
+}

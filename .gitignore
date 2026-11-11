@@ -1,1 +1,4 @@
 .DS_Store
+
+/navegador/node_modules/
+/navegador/dist/

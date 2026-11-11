@@ -2,6 +2,10 @@
 
 Planificación anual de Computación para primaria, ciclo básico y Bachillerato en Ciencias y Letras, basada en el Currículo Nacional Base (CNB) de Guatemala y enriquecida con referentes curriculares internacionales.
 
+## Navegador web
+
+Consulta los grados, abre cada planificación bimestral y descarga sus hojas imprimibles individuales desde el [navegador de Computación 2027](https://diego2326.github.io/planificacion-computacion-2027/). El código fuente Svelte está en [`navegador/`](navegador/).
+
 ## Planificaciones anuales disponibles
 
 Cada grado conserva sus cuatro planes bimestrales en Markdown. Las planificaciones de 2.º primaria a 5.º Bachillerato también están reunidas en un DOCX anual por grado, con el branding del colegio. Los materiales para imprimir están reunidos en `Materiales_para_imprimir/`, organizados por nivel y grado. Cada grado tiene un PDF anual de 24 hojas, además de 24 PDFs individuales de una hoja cada uno, organizados en subcarpetas B1–B4. El HTML editable acompaña al PDF anual. Los imprimibles individuales no incluyen claves docentes; las planificaciones sí conservan las claves para el docente.

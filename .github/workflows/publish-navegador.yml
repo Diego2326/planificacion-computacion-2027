@@ -1,0 +1,50 @@
+name: Publicar navegador de planificación
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'navegador/**'
+      - 'Primaria/**'
+      - 'Basico/**'
+      - 'Bachillerato/**'
+      - 'Materiales_para_imprimir/**'
+      - '.github/workflows/publish-navegador.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+      - name: Preparar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: navegador/package-lock.json
+      - name: Instalar dependencias
+        run: npm ci
+        working-directory: navegador
+      - name: Construir página
+        run: npm run build
+        working-directory: navegador
+      - name: Preparar GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Empaquetar página
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: navegador/dist
+      - name: Publicar página
+        id: deployment
+        uses: actions/deploy-pages@v4
