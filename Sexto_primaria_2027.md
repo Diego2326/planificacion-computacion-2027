@@ -2,10 +2,10 @@
 
 La planificación está dividida por bimestre para consultar y trabajar cada unidad por separado.
 
-- [B1](B1.md)
-- [B2](B2.md)
-- [B3](B3.md)
-- [B4](B4.md)
+- [B1](Primaria/6_primaria/B1.md)
+- [B2](Primaria/6_primaria/B2.md)
+- [B3](Primaria/6_primaria/B3.md)
+- [B4](Primaria/6_primaria/B4.md)
 
 **Planificación anual en un archivo con branding del colegio:** [Planificacion_6_primaria_2027.docx](Primaria/6_primaria/Planificacion_6_primaria_2027.docx)
 

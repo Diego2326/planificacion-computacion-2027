@@ -2,10 +2,10 @@
 
 La planificación está dividida por bimestre para consultar y trabajar cada unidad por separado.
 
-- [B1](B1.md)
-- [B2](B2.md)
-- [B3](B3.md)
-- [B4](B4.md)
+- [B1](Bachillerato/5_bachillerato/B1.md)
+- [B2](Bachillerato/5_bachillerato/B2.md)
+- [B3](Bachillerato/5_bachillerato/B3.md)
+- [B4](Bachillerato/5_bachillerato/B4.md)
 
 **Planificación anual en un archivo con branding del colegio:** [Planificacion_5_bachillerato_2027.docx](Bachillerato/5_bachillerato/Planificacion_5_bachillerato_2027.docx)
 
