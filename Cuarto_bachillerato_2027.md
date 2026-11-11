@@ -21,7 +21,7 @@ Clase ordinaria: activación breve, modelado, práctica guiada, aplicación y ci
 
 ## Bimestre I — Opero y documento un entorno digital
 
-**Fechas:** 11 ene–12 mar · parcial 1–5 feb · heteroevaluación 8–12 mar · 26 feb sin clases. **18 períodos.**  
+**Fechas:** 11 ene–12 mar · parcial 1–5 feb · heteroevaluación 8–12 mar · 26 feb sin clases. **Hasta 18 períodos potenciales; reubicar o integrar si Computación coincide con el 26 feb.**
 **Competencias CNB:** explica el funcionamiento básico del computador y su sistema operativo; administra archivos; utiliza herramientas de productividad y reconoce sistemas de comunicación y protección.  
 **Pregunta guía:** ¿Cómo preparo un entorno digital ordenado, funcional y seguro para una tarea académica?
 
@@ -40,7 +40,7 @@ Clase ordinaria: activación breve, modelado, práctica guiada, aplicación y ci
 
 ## Bimestre II — Investigo, analizo y comunico información
 
-**Fechas:** 15 mar–28 may · Semana Santa 22–26 mar · COE 29 mar–2 abr · parcial 19–23 abr · heteroevaluación 24–28 may · reunión 30 abr. **20 períodos.**  
+**Fechas:** 15 mar–28 may · Semana Santa 22–26 mar · COE 29 mar–2 abr · parcial 19–23 abr · heteroevaluación 24–28 may · reunión sin clases 30 abr. **Hasta 20 períodos potenciales; ajustar si el horario de Computación coincide con el 30 abr.**
 **Competencias CNB:** estructura, verifica y presenta información para audiencias; selecciona fuentes y herramientas; usa tablas, gráficos, documentos y presentaciones; analiza impactos éticos y sociales.  
 **Producto:** informe con tabla/gráfico, referencias y exposición breve sobre un tema académico con datos ficticios, públicos o previamente autorizados.
 
@@ -59,7 +59,7 @@ Clase ordinaria: activación breve, modelado, práctica guiada, aplicación y ci
 
 ## Bimestre III — Organizo datos en una base consultable
 
-**Fechas:** 31 may–30 jul · COE 7–11 jun · parcial 16–22 jun · semana Medio Año 28 jun–2 jul · heteroevaluación 26–30 jul. **18 períodos.**  
+**Fechas:** 31 may–30 jul · COE 7–11 jun · parcial 16–22 jun · aniversario 21–25 jun · semana Medio Año 28 jun–2 jul · heteroevaluación 26–30 jul. **Hasta 18 períodos potenciales; ajustar por las actividades que afecten al grado.**
 **Competencias CNB:** estructura información, resuelve problemas con herramientas TIC, administra y recupera datos y evalúa aplicaciones según su propósito. Se trabaja el modelo de datos y consultas con herramientas disponibles; si no hay un gestor instalado, se simula con una hoja de cálculo.
 
 **Secuencia (18 períodos):** 1 necesidad y usuarios; 2 entidad/registro/campo; 3 tipos de dato; 4 reglas de captura; 5 tabla y clave identificadora; 6 detectar duplicados/incompletos; 7 repaso; 8 parcial; 9 ordenar/filtrar y consultas simples; 10 formularios como concepto; 11 relación entre dos tablas con identificador común; 12 reporte; 13 privacidad y mínimo de datos; 14 probar búsquedas con casos; 15 corregir estructura; 16 documentar instrucciones; 17 demostrar solución; 18 heteroevaluación práctica.
@@ -77,7 +77,7 @@ Clase ordinaria: activación breve, modelado, práctica guiada, aplicación y ci
 
 ## Bimestre IV — Diseño una solución TIC responsable
 
-**Fechas:** 2 ago–15 oct · COE 23–27 ago · avance/parcial 30 ago–3 sep · heteroevaluaciones 4–8 y 11–15 oct. **22 períodos.**  
+**Fechas:** 2 ago–15 oct · COE 23–27 ago · avance/parcial 30 ago–3 sep · heteroevaluaciones 4–8 y 11–15 oct. **Hasta 22 períodos potenciales; ajustar por eventos institucionales.**
 **Competencias CNB:** evaluar fuentes, herramientas y modelos; reconocer consecuencias sociales, legales, éticas y de salud; comunicar y proponer mejoras. **Producto:** propuesta TIC para mejorar un proceso académico o comunitario, sin publicar información personal.
 
 **Secuencia (22 períodos):** 1 identificar necesidad; 2 usuario y alcance; 3 evidencia y fuentes; 4 alternativas de herramienta; 5 criterios de selección; 6 derechos de autor y atribución; 7 seguridad/privacidad; 8 bienestar y accesibilidad; 9 mapa de proceso actual; 10 parcial de diseño; 11 especificar solución; 12 prototipo local; 13 datos mínimos; 14 riesgo y mitigación; 15 prueba con escenario ficticio; 16 revisión de accesibilidad; 17 costo/viabilidad; 18 informe; 19 preparar presentación; 20 retroalimentación y mejora; 21 defensa del proyecto; 22 heteroevaluación individual/portafolio.

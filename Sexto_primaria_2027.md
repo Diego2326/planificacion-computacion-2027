@@ -14,7 +14,7 @@
 
 ## Vista anual
 
-| Bimestre | Períodos | Énfasis y producto | Parcial | Heteroevaluación |
+| Bimestre | Máximo potencial | Énfasis y producto | Parcial | Heteroevaluación |
 |---|---:|---|---|---|
 | I · 11 ene–12 mar | 18 | Sistemas, redes, nube y seguridad; **esquema de sistema conectado** | 1–5 feb | 8–12 mar |
 | II · 15 mar–28 may | 20 | Investigación, fórmulas y análisis de datos; **informe con indicadores** | 19–23 abr | 24–28 may |
@@ -23,7 +23,7 @@
 
 ## Bimestre I — Diseño un sistema conectado y seguro
 
-**Fechas:** 11 ene–12 mar; parcial 1–5 feb; heteroevaluación 8–12 mar. No hay clases por capacitación docente el 26 feb; reubicar si coincide. **18 períodos.**  
+**Fechas:** 11 ene–12 mar; parcial 1–5 feb; heteroevaluación 8–12 mar. No hay clases por capacitación docente el 26 feb; reubicar si coincide. **Hasta 18 períodos potenciales.**
 **Pregunta guía:** ¿Cómo colaboran dispositivos y servicios conectados y qué debo proteger?  
 **Producto:** esquema de un sistema conectado para una necesidad escolar, con datos, dispositivos, red, almacenamiento y medidas de protección.
 
@@ -73,7 +73,7 @@ Cuaderno 15; hojas 15; tareas 5; prácticas 10; parcial 20; producto 15; heteroe
 
 ## Bimestre II — Investigo y presento indicadores
 
-**Fechas:** 15 mar–28 may; Semana Santa 22–26 mar; COE 29 mar–2 abr; parcial 19–23 abr; heteroevaluación 24–28 may; reunión docente 30 abr. **20 períodos potenciales.**  
+**Fechas:** 15 mar–28 may; Semana Santa 22–26 mar; COE 29 mar–2 abr; parcial 19–23 abr; heteroevaluación 24–28 may; reunión docente 30 abr. **20 períodos potenciales.**
 **Producto:** informe con pregunta, datos, fórmulas básicas, tabla, gráfico, conclusión y fuente.
 
 ### Articulación y secuencia de 20 clases
@@ -121,7 +121,7 @@ Cuaderno 15; hojas 15; tareas 5; prácticas 10; parcial 20; producto 15; heteroe
 
 ## Bimestre III — Modelo una solución y la pruebo
 
-**Fechas:** 31 may–30 jul; COE 7–11 jun; parcial 16–22 jun; semana de Medio Año 28 jun–2 jul; heteroevaluación 26–30 jul. **18 períodos**, reubicar si la semana no es lectiva.  
+**Fechas:** 31 may–30 jul; COE 7–11 jun; parcial 16–22 jun; aniversario 21–25 jun; semana de Medio Año 28 jun–2 jul; heteroevaluación 26–30 jul. **Hasta 18 períodos potenciales**, reubicar si actividades suspenden clases.
 **Producto:** diagrama/algoritmo con secuencia, condición, repetición, variable conceptual y pruebas.
 
 ### Articulación y secuencia de 18 clases
@@ -169,7 +169,7 @@ Cuaderno 15; hojas 15; tareas 5; prácticas 10; parcial 20; producto 15; heteroe
 
 ## Bimestre IV — Propongo una mejora digital responsable
 
-**Fechas:** 2 ago–15 oct; COE 23–27 ago; avance de proyecto 30 ago–3 sep; heteroevaluación 4–8 oct y 11–15 oct. **22 períodos.**  
+**Fechas:** 2 ago–15 oct; COE 23–27 ago; avance de proyecto 30 ago–3 sep; actividades de Independencia 10–14 sep; heteroevaluación 4–8 oct y 11–15 oct. **Hasta 22 períodos potenciales.**
 **Producto:** propuesta para mejorar una necesidad escolar, basada en datos, privacidad, ciudadanía digital e IA responsable.
 
 ### Plan de 22 clases

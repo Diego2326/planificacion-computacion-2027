@@ -4,10 +4,10 @@
 **Base:** CNB del área de Tecnologías del Aprendizaje y la Comunicación, con CSTA, Computing de Inglaterra y competencia digital de Finlandia como complementos.
 
 ## Criterios comunes
-TAC organiza habilidades tecnológicas, recursos tecnológicos y producción/innovación responsable. Esta planificación progresa de tareas digitales académicas a investigación, colaboración y solución de problemas. No requiere cuentas personales ni Internet en casa; el docente prepara recursos y los productos se presentan localmente. No se exige programación textual. Cada bimestre: 12 ejercicios de cuaderno, seis hojas con claves, tres tareas, cuatro prácticas digitales, parcial 20, proyecto 15, heteroevaluación 20; notas sugeridas suman 100. Clase de 40 min: activación 5, modelo 8, trabajo 17, aplicación 7, cierre 3.
+TAC organiza habilidades tecnológicas, recursos tecnológicos y producción/innovación responsable. Esta planificación progresa de tareas digitales académicas a investigación, colaboración y solución de problemas. No requiere cuentas personales ni Internet en casa; el docente prepara recursos y los productos se presentan localmente. No se exige programación textual. Cada bimestre: 12 ejercicios de cuaderno, seis hojas con claves, tres tareas, cuatro prácticas digitales, parcial 20, proyecto 15, heteroevaluación 20; notas sugeridas suman 100. Las secuencias son máximos potenciales sujetos al horario semanal y a las actividades institucionales. Clase de 40 min: activación 5, modelo 8, trabajo 17, aplicación 7, cierre 3.
 
 ## Vista anual
-B1 redes y topologías, producto diseño de red para negocio ficticio (18 clases). B2 funciones, filtros y gráficos, producto inventario/presupuesto (20). B3 condiciones compuestas y casos de prueba, producto modelo decisional (18). B4 datos y fuentes, producto plan de organización digital (22).
+B1 redes y topologías, producto diseño de red para negocio ficticio (hasta 18 períodos potenciales). B2 funciones, filtros y gráficos, producto inventario/presupuesto (hasta 20). B3 condiciones compuestas y casos de prueba, producto modelo decisional (hasta 18). B4 datos y fuentes, producto plan de organización digital (hasta 22).
 
 ## Bimestre I — Diseño una red apropiada
 

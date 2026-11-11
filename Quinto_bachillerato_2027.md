@@ -21,7 +21,7 @@ Clase ordinaria: activación, modelado, práctica guiada, aplicación y cierre. 
 
 ## Bimestre I — Comunico y publico información de forma responsable
 
-**Fechas:** 11 ene–12 mar · parcial 1–5 feb · heteroevaluación 8–12 mar · 26 feb sin clases. **18 períodos.**  
+**Fechas:** 11 ene–12 mar · parcial 1–5 feb · heteroevaluación 8–12 mar · 26 feb sin clases. **Hasta 18 períodos potenciales; reubicar o integrar si Computación coincide con el 26 feb.**
 **Competencias CNB:** selecciona fuentes y herramientas apropiadas, organiza información, comunica mediante TIC y reconoce responsabilidades éticas y legales.  
 **Pregunta guía:** ¿Cómo compartir información clara sin exponer datos ni perder credibilidad?
 
@@ -40,7 +40,7 @@ Clase ordinaria: activación, modelado, práctica guiada, aplicación y cierre. 
 
 ## Bimestre II — Diseño datos y consultas útiles
 
-**Fechas:** 15 mar–28 may · Semana Santa 22–26 mar · COE 29 mar–2 abr · parcial 19–23 abr · heteroevaluación 24–28 may · reunión 30 abr. **20 períodos.**  
+**Fechas:** 15 mar–28 may · Semana Santa 22–26 mar · COE 29 mar–2 abr · parcial 19–23 abr · heteroevaluación 24–28 may · reunión sin clases 30 abr. **Hasta 20 períodos potenciales; ajustar si el horario de Computación coincide con el 30 abr.**
 **Competencias CNB:** organiza, recupera y analiza información; utiliza tablas y bases de datos; evalúa herramientas y prepara información para una tarea específica. Si no hay gestor de bases instalado, el modelo se implementa en hoja de cálculo o con tarjetas.
 
 **Secuencia (20 períodos):** 1 pregunta y conjunto de datos; 2 registro/campo/tabla; 3 tipos y validación; 4 claves e identificadores; 5 valores controlados; 6 relación entre tablas; 7 repaso; 8 parcial; 9 consultas y filtros; 10 formularios; 11 ordenamiento; 12 duplicados/integridad; 13 criterios de reporte; 14 privacidad y minimización; 15 construir dataset pequeño; 16 consultas de ejemplo; 17 crear reporte; 18 documentar límites; 19 presentación de hallazgos; 20 heteroevaluación.
@@ -58,7 +58,7 @@ Clase ordinaria: activación, modelado, práctica guiada, aplicación y cierre. 
 
 ## Bimestre III — Analizo y automatizo una hoja de cálculo
 
-**Fechas:** 31 may–30 jul · COE 7–11 jun · parcial 16–22 jun · semana Medio Año 28 jun–2 jul · heteroevaluación 26–30 jul. **18 períodos.**  
+**Fechas:** 31 may–30 jul · COE 7–11 jun · parcial 16–22 jun · aniversario 21–25 jun · semana Medio Año 28 jun–2 jul · heteroevaluación 26–30 jul. **Hasta 18 períodos potenciales; ajustar por las actividades que afecten al grado.**
 **Competencias CNB:** evalúa la utilidad de herramientas, aplica funciones, gráficos y procedimientos para resolver casos, prueba alternativas y documenta resultados. Las macros se estudian como concepto de automatización; no se ejecutan.
 
 **Secuencia (18 períodos):** 1 problema y variables; 2 estructura y formatos; 3 referencias relativas/absolutas; 4 funciones de suma/promedio/conteo; 5 funciones condicionales; 6 filtros y validación; 7 repaso; 8 parcial; 9 escenarios y parámetros; 10 gráfico pertinente; 11 reglas de alerta; 12 pasos repetitivos y automatización conceptual; 13 riesgos de macros y archivos; 14 diseñar pseudoflujo o receta; 15 probar casos normales y límite; 16 corregir fórmula/modelo; 17 comunicar resultado; 18 heteroevaluación práctica.
@@ -76,7 +76,7 @@ Clase ordinaria: activación, modelado, práctica guiada, aplicación y cierre. 
 
 ## Bimestre IV — Integro un proyecto TIC probado
 
-**Fechas:** 2 ago–15 oct · COE 23–27 ago · avance/parcial 30 ago–3 sep · heteroevaluaciones 4–8 y 11–15 oct. **22 períodos.**  
+**Fechas:** 2 ago–15 oct · COE 23–27 ago · avance/parcial 30 ago–3 sep · actividades de Independencia 10–14 sep · heteroevaluaciones 4–8 y 11–15 oct. **Hasta 22 períodos potenciales; ajustar por eventos institucionales.**
 **Producto:** solución TIC académica/comunitaria que integre investigación, herramienta de productividad, datos o prototipo web local, criterios de seguridad, pruebas, documentación y presentación.
 
 **Secuencia (22 períodos):** 1 identificar necesidad; 2 usuario y alcance; 3 evidencia; 4 criterios de éxito; 5 escoger herramienta; 6 datos y privacidad; 7 viabilidad; 8 mapa del proceso; 9 comparar alternativas; 10 parcial de propuesta; 11 plan de trabajo; 12 construir prototipo; 13 organizar archivos/versiones; 14 preparar datos ficticios; 15 prueba de funcionamiento; 16 revisar accesibilidad/seguridad; 17 registrar errores y mejoras; 18 redactar informe; 19 atribución y límites; 20 ensayo de exposición; 21 defensa/heteroevaluación; 22 reto individual y portafolio.

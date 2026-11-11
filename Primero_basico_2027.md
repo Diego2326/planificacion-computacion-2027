@@ -8,7 +8,7 @@ TAC es el eje curricular de este grado: habilidades tecnológicas, recursos tecn
 
 ## Vista anual
 
-| Bimestre | Períodos | Producto |
+| Bimestre | Máximo potencial | Producto |
 |---|---:|---|
 | I | 18 | Comparación razonada de equipos |
 | II | 20 | Informe académico con presupuesto |
@@ -17,7 +17,7 @@ TAC es el eje curricular de este grado: habilidades tecnológicas, recursos tecn
 
 ## Bimestre I — Comprendo y selecciono un sistema
 
-Fechas 11 ene–12 mar; parcial 1–5 feb; heteroevaluación 8–12 mar; 26 feb sin clases por capacitación docente. **18 períodos.** Pregunta: ¿Qué equipo y herramientas responden a una necesidad escolar?
+Fechas 11 ene–12 mar; parcial 1–5 feb; heteroevaluación 8–12 mar; 26 feb sin clases por capacitación docente. **Hasta 18 períodos potenciales; reubicar o integrar si Computación coincide con el 26 feb.** Pregunta: ¿Qué equipo y herramientas responden a una necesidad escolar?
 
 **Articulación:** TAC, CSTA sistemas, Computing KS3 y Finlandia competencia digital.  
 **Secuencia:** 1 diagnóstico y necesidades; 2 hardware/software; 3 CPU, memoria y almacenamiento; 4 entrada-proceso-salida; 5 sistema operativo y aplicaciones; 6 compatibilidad; 7 repaso; 8 parcial; 9 periféricos; 10 archivos y carpetas; 11 redes e Internet; 12 riesgos; 13 especificaciones; 14 comparación de equipos; 15 matriz de selección; 16 producto; 17 presentación; 18 heteroevaluación práctica. Prácticas digitales: clasificar componentes, explorar configuración de ejemplo, comparar fichas locales, construir diagrama.  
@@ -30,7 +30,7 @@ Fechas 11 ene–12 mar; parcial 1–5 feb; heteroevaluación 8–12 mar; 26 feb 
 
 ## Bimestre II — Documento, tabla y presupuesto
 
-Fechas 15 mar–28 may; Semana Santa 22–26 mar; COE 29 mar–2 abr; parcial 19–23 abr; heteroevaluación 24–28 may; el 30 abr puede afectar una sesión. **20 períodos.** Producto: informe comparativo con tabla, fórmulas sencillas y presentación breve.
+Fechas 15 mar–28 may; Semana Santa 22–26 mar; COE 29 mar–2 abr; parcial 19–23 abr; heteroevaluación 24–28 may; reunión sin clases 30 abr. **Hasta 20 períodos potenciales; reubicar o integrar si Computación coincide con el 30 abr.** Producto: informe comparativo con tabla, fórmulas sencillas y presentación breve.
 
 **Secuencia:** 1 pregunta de comparación; 2 criterios; 3 plantilla de documento; 4 títulos y secciones; 5 tabla; 6 formato legible; 7 parcial de 20; 8 revisión; 9 hoja de cálculo, celdas; 10 fórmulas suma/promedio; 11 presupuesto ficticio; 12 referencias; 13 gráfico; 14 interpretación; 15 citas de fuentes; 16 diapositiva; 17 integrar; 18 revisar; 19 exposición; 20 heteroevaluación. Prácticas: documento formal, tabla/cálculo, gráfico, presentación.  
 **Cuaderno 12:** esquema; criterios; párrafo; tabla; total; promedio; gráfico; fuente; comparar opciones; conclusión; lista de revisión; bosquejo.  
@@ -41,13 +41,13 @@ Fechas 15 mar–28 may; Semana Santa 22–26 mar; COE 29 mar–2 abr; parcial 19
 
 ## Bimestre III — Represento una solución con algoritmos
 
-Fechas 31 may–30 jul; COE 7–11 jun; parcial 16–22 jun; semana de Medio Año 28 jun–2 jul; heteroevaluación 26–30 jul. **18 períodos.** Sin código textual obligatorio. Producto: diagrama de flujo para problema cotidiano con prueba y depuración.
+Fechas 31 may–30 jul; COE 7–11 jun; parcial 16–22 jun; aniversario 21–25 jun; semana de Medio Año 28 jun–2 jul; heteroevaluación 26–30 jul. **Hasta 18 períodos potenciales; ajustar por actividades que afecten al grado.** Sin código textual obligatorio. Producto: diagrama de flujo para problema cotidiano con prueba y depuración.
 
 **Secuencia:** 1 descomponer; 2 pasos; 3 símbolos de diagrama; 4 decisiones; 5 ciclos; 6 repaso; 7 parcial 20; 8 trazado de casos; 9 detectar error; 10 arreglar secuencia; 11 bloques visuales; 12 condición; 13 ciclo; 14 prueba con entradas; 15 comparar soluciones; 16 diseñar algoritmo; 17 presentar; 18 heteroevaluación. Cuaderno: 12 diseños de secuencia, diagrama, dos caminos, ciclo, casos y corrección. Hojas/claves: diagrama de rutina; condición sí/no; expandir repetir 3 veces; trazar entrada/salida; error por flecha invertida; tabla de prueba abierta. Prácticas: bloques, condición, ciclo, depuración. Tareas: rutina con pasos (2), condición (2), corregir error (1). Parcial 20: secuencia 4, símbolos 4, condición 4, ciclo 4, error/caso 4. Producto 15: lógica 5, diagrama 5, prueba y explicación 5. Heteroevaluación 10 visual + 10 práctica. Ponderación estándar = 100.
 
 ## Bimestre IV — Huella digital e IA responsable
 
-Fechas 2 ago–15 oct; COE 23–27 ago; avance 30 ago–3 sep; heteroevaluación 4–8 oct y 11–15 oct. **22 períodos.** Producto: propuesta tecnológica para mejorar un proceso del aula.
+Fechas 2 ago–15 oct; COE 23–27 ago; avance 30 ago–3 sep; actividades de Independencia 10–14 sep; heteroevaluación 4–8 oct y 11–15 oct. **Hasta 22 períodos potenciales; ajustar por eventos institucionales.** Producto: propuesta tecnológica para mejorar un proceso del aula.
 
 **Secuencia:** 1 huella digital; 2 datos personales; 3 privacidad; 4 contraseñas y phishing; 5 fuentes; 6 IA: errores y verificación; 7 audiencia y necesidad; 8 plan; 9 parcial de proyecto 20; 10 retroalimentación; 11 diseño de solución; 12 prototipo; 13 fuentes/atribución; 14 prueba con usuario ficticio; 15 privacidad; 16 mejora; 17 documentación; 18 ensayo; 19 presentación 10; 20 reto individual 10; 21 recuperación; 22 portafolio. Prácticas: revisar permisos simulados, comparar respuestas y fuente, diseñar prototipo local, presentar. Cuaderno 12: dato privado, huella, riesgo, fuente, pregunta a IA, verificación, necesidad, usuario, prototipo, prueba, mejora, reflexión. Hojas/claves: clasificar datos (contraseña/dirección privados); mensaje sospechoso (pausar y reportar); verificar afirmación con dos fuentes; sesgo/error de IA (no asumir verdad); atribución (citar recurso autorizado); lista de privacidad abierta. Tareas: regla digital segura (2), ejemplo ficticio de huella (2), norma de IA (1). Parcial 20: necesidad 4, usuarios 4, fuente/evidencia 4, seguridad 4, prototipo 4. Producto 15: utilidad 5, prueba/mejora 5, privacidad/fuente 5. Heteroevaluación 10 exposición + 10 casos. Ponderación estándar = 100.
 

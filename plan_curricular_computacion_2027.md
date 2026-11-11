@@ -190,7 +190,7 @@ Este es un esquema de ejemplo. **Parcial y heteroevaluación deben coincidir con
 
 ### Calendario institucional 2027
 
-Se revisó la hoja 2027 del calendario institucional compartido. Para B1, el calendario va del inicio de clases del **11 de enero** a las heteroevaluaciones del **8–12 de marzo**; ubica los **parciales del 1–5 de febrero** y el inicio de B2 el **15 de marzo**. Con dos períodos semanales, el tramo permite planificar hasta 18 períodos. El **26 de febrero** indica capacitación docente y ausencia de clases; si coincide con el horario de Computación, se reubica o se usa la sesión flexible del prototipo. Las fechas de otros bimestres se toman de esta misma hoja y se ajustan a las actividades del colegio.
+Se cotejaron los 11 planes con la hoja 2027 del [calendario institucional](Calendario_institucional_2027.xlsx). Las fechas de bimestres, parciales y heteroevaluaciones coinciden; el detalle y los asuntos por confirmar están en [la revisión de calendario](Revision_calendario_institucional_2027.md). Los totales de secuencia son máximos potenciales, porque el calendario no especifica los días semanales de Computación ni determina si todas las semanas especiales suspenden clases.
 
 ## 7. Planificaciones completas desarrolladas
 
@@ -261,8 +261,8 @@ Son **referencias de diseño** que enriquecen la progresión del CNB; no se pret
 
 ## 10. Pendientes para cerrar el proyecto
 
-1. Revisar la carga real de períodos de cada bimestre frente al calendario 2027 y sus actividades.
-2. Confirmar en la práctica del laboratorio la disponibilidad de programas y el efecto de las actividades institucionales; los planes incluyen alternativas en papel.
+1. Confirmar los días y bloques semanales de Computación por grado y ajustar los períodos potenciales a ese horario.
+2. Confirmar qué semanas especiales suspenden clases por nivel y la disponibilidad de programas del laboratorio; los planes incluyen alternativas en papel.
 
 ---
 

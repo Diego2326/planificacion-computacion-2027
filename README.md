@@ -18,6 +18,8 @@ Cada grado desarrollado tiene los cuatro bimestres reunidos en un solo archivo.
 - [4.º Bachillerato en Ciencias y Letras](Cuarto_bachillerato_2027.md)
 - [5.º Bachillerato en Ciencias y Letras](Quinto_bachillerato_2027.md)
 - [Mapa curricular general 2027](plan_curricular_computacion_2027.md)
+- [Calendario institucional 2027 — archivo fuente](Calendario_institucional_2027.xlsx)
+- [Revisión de los planes contra el calendario](Revision_calendario_institucional_2027.md)
 
 El mapa general presenta la progresión prevista para los 11 grados. Cada grado tiene su planificación anual con los cuatro bimestres reunidos en un archivo.
 
@@ -31,7 +33,7 @@ El mapa general presenta la progresión prevista para los 11 grados. Cada grado 
 - Las actividades digitales tienen alternativas en cuaderno o papel.
 - No se requiere Internet en casa, cuentas personales de estudiante ni publicación en línea.
 
-Cada plan incluye dosificación por clases, ejercicios de cuaderno, hojas imprimibles con claves, tareas sin computadora, prácticas digitales, evaluaciones, productos, rúbricas y ponderación sugerida. Las ventanas y fechas se basan en el calendario institucional 2027 descrito en los documentos; el archivo Excel original no forma parte de este repositorio.
+Cada plan incluye dosificación por clases, ejercicios de cuaderno, hojas imprimibles con claves, tareas sin computadora, prácticas digitales, evaluaciones, productos, rúbricas y ponderación sugerida. Las fechas se cotejaron con el calendario institucional 2027 incluido en el repositorio; las cantidades de períodos son máximos potenciales y dependen del horario semanal real.
 
 ## Criterios de uso
 

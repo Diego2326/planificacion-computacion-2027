@@ -7,7 +7,7 @@
 Se sigue la progresión TAC en habilidades, recursos y producción/innovación responsable. En 3.º básico se consolidan evaluación de fuentes, documentación técnica, análisis de datos, algoritmos probados y proyecto responsable. No se exige programación textual. Docente prepara cuentas/archivos y recursos; no se publican datos. Alternativas analógicas para todas las prácticas. En cada bimestre: 12 actividades de cuaderno, 6 hojas con claves, 3 tareas sin PC, 4 prácticas digitales, parcial20, proyecto15, heteroevaluación20; total ponderado100. Clase: 5/8/17/7/3 minutos.
 
 ## Vista anual
-B1 incidente digital; B2 reporte estadístico con recomendaciones; B3 procedimiento documentado y probado; B4 proyecto ético de mejora para comunidad escolar. Duraciones: 18,20,18,22 sesiones.
+B1 incidente digital; B2 reporte estadístico con recomendaciones; B3 procedimiento documentado y probado; B4 proyecto ético de mejora para comunidad escolar. Máximos potenciales por secuencia: 18, 20, 18 y 22 períodos, sujetos al horario y a las actividades institucionales.
 
 ## Bimestre I — Analizo un incidente digital
 
