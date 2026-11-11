@@ -9,4 +9,4 @@ La planificación está dividida por bimestre para consultar y trabajar cada uni
 
 **Planificación anual en un archivo con branding del colegio:** [Planificacion_4_bachillerato_2027.docx](Bachillerato/4_bachillerato/Planificacion_4_bachillerato_2027.docx)
 
-**Solo hojas para imprimir:** [Imprimibles_4_bachillerato_2027.docx](Bachillerato/4_bachillerato/Imprimibles_4_bachillerato_2027.docx)
+**PDF listo para imprimir:** [Imprimibles_4_bachillerato_2027.pdf](Bachillerato/4_bachillerato/Imprimibles_4_bachillerato_2027.pdf) · [HTML editable](Bachillerato/4_bachillerato/Imprimibles_4_bachillerato_2027.html)
