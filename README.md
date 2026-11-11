@@ -4,24 +4,24 @@ Planificación anual de Computación para primaria, ciclo básico y Bachillerato
 
 ## Planificaciones anuales disponibles
 
-Cada grado desarrollado tiene los cuatro bimestres reunidos en un solo archivo.
+Cada grado tiene un índice anual y cuatro archivos separados, uno por bimestre.
 
-- [1.º primaria](Primero_primaria_2027.md)
-- [2.º primaria](Segundo_primaria_2027.md)
-- [3.º primaria](Tercero_primaria_2027.md)
-- [4.º primaria](Cuarto_primaria_2027.md)
-- [5.º primaria](Quinto_primaria_2027.md)
-- [6.º primaria](Sexto_primaria_2027.md)
-- [1.º básico](Primero_basico_2027.md)
-- [2.º básico](Segundo_basico_2027.md)
-- [3.º básico](Tercero_basico_2027.md)
-- [4.º Bachillerato en Ciencias y Letras](Cuarto_bachillerato_2027.md)
-- [5.º Bachillerato en Ciencias y Letras](Quinto_bachillerato_2027.md)
+- [1.º primaria — índice](Primero_primaria_2027.md): [B1](Primaria/1_primaria/B1.md) · [B2](Primaria/1_primaria/B2.md) · [B3](Primaria/1_primaria/B3.md) · [B4](Primaria/1_primaria/B4.md)
+- [2.º primaria — índice](Segundo_primaria_2027.md): [B1](Primaria/2_primaria/B1.md) · [B2](Primaria/2_primaria/B2.md) · [B3](Primaria/2_primaria/B3.md) · [B4](Primaria/2_primaria/B4.md)
+- [3.º primaria — índice](Tercero_primaria_2027.md): [B1](Primaria/3_primaria/B1.md) · [B2](Primaria/3_primaria/B2.md) · [B3](Primaria/3_primaria/B3.md) · [B4](Primaria/3_primaria/B4.md)
+- [4.º primaria — índice](Cuarto_primaria_2027.md): [B1](Primaria/4_primaria/B1.md) · [B2](Primaria/4_primaria/B2.md) · [B3](Primaria/4_primaria/B3.md) · [B4](Primaria/4_primaria/B4.md)
+- [5.º primaria — índice](Quinto_primaria_2027.md): [B1](Primaria/5_primaria/B1.md) · [B2](Primaria/5_primaria/B2.md) · [B3](Primaria/5_primaria/B3.md) · [B4](Primaria/5_primaria/B4.md)
+- [6.º primaria — índice](Sexto_primaria_2027.md): [B1](Primaria/6_primaria/B1.md) · [B2](Primaria/6_primaria/B2.md) · [B3](Primaria/6_primaria/B3.md) · [B4](Primaria/6_primaria/B4.md)
+- [1.º básico — índice](Primero_basico_2027.md): [B1](Basico/1_basico/B1.md) · [B2](Basico/1_basico/B2.md) · [B3](Basico/1_basico/B3.md) · [B4](Basico/1_basico/B4.md)
+- [2.º básico — índice](Segundo_basico_2027.md): [B1](Basico/2_basico/B1.md) · [B2](Basico/2_basico/B2.md) · [B3](Basico/2_basico/B3.md) · [B4](Basico/2_basico/B4.md)
+- [3.º básico — índice](Tercero_basico_2027.md): [B1](Basico/3_basico/B1.md) · [B2](Basico/3_basico/B2.md) · [B3](Basico/3_basico/B3.md) · [B4](Basico/3_basico/B4.md)
+- [4.º Bachillerato en Ciencias y Letras — índice](Cuarto_bachillerato_2027.md): [B1](Bachillerato/4_bachillerato/B1.md) · [B2](Bachillerato/4_bachillerato/B2.md) · [B3](Bachillerato/4_bachillerato/B3.md) · [B4](Bachillerato/4_bachillerato/B4.md)
+- [5.º Bachillerato en Ciencias y Letras — índice](Quinto_bachillerato_2027.md): [B1](Bachillerato/5_bachillerato/B1.md) · [B2](Bachillerato/5_bachillerato/B2.md) · [B3](Bachillerato/5_bachillerato/B3.md) · [B4](Bachillerato/5_bachillerato/B4.md)
 - [Mapa curricular general 2027](plan_curricular_computacion_2027.md)
 - [Calendario institucional 2027 — archivo fuente](Calendario_institucional_2027.xlsx)
 - [Revisión de los planes contra el calendario](Revision_calendario_institucional_2027.md)
 
-El mapa general presenta la progresión prevista para los 11 grados. Cada grado tiene su planificación anual con los cuatro bimestres reunidos en un archivo.
+El mapa general presenta la progresión prevista para los 11 grados. Cada índice anual enlaza los cuatro planes bimestrales de su grado.
 
 ## Contexto de enseñanza
 

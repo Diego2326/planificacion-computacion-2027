@@ -46,24 +46,24 @@ Estas proporciones son solo un punto de partida. Las clases pueden mezclar vario
 
 ### 1.º primaria
 **Meta:** reconocer tecnología, seguir instrucciones y crear productos digitales sencillos.
-- **B1:** dispositivos y funciones; entrada/salida visual; secuencias y patrones. **Producto:** cuaderno de clasificación y recorridos.
-- **B2:** teclado, palabras, dibujo digital y organización de imágenes. **Producto:** tarjeta ilustrada con texto.
+- **B1:** dispositivos, entrada/salida, cuidado y secuencias. **Producto:** mapa funcional y recorrido con instrucciones.
+- **B2:** manejo del mouse, ventanas, herramientas de dibujo, deshacer y guardar/abrir archivos. **Producto:** dibujo digital realizado y recuperado localmente.
 - **B3:** algoritmos con flechas, errores, secuencias y retos iniciales en Code.org. **Producto:** recorrido explicado en cuaderno.
-- **B4:** cuidado digital, secuencia narrativa e integración. **Producto:** historia visual de tres escenas.
+- **B4:** composición visual, herramientas de edición, flujo guardar/recuperar y cuidado digital. **Producto:** composición local con pictogramas de uso responsable del equipo.
 
 ### 2.º primaria
 **Meta:** organizar información básica y representar instrucciones mediante secuencias.
 - **B1:** hardware/software, acciones del sistema, secuencias y seguridad. **Producto:** mapa de dispositivos y funciones.
-- **B2:** oraciones, párrafos breves, imágenes, tablas de clasificación y diapositivas. **Producto:** ficha informativa ilustrada.
+- **B2:** explorador de archivos, rutas, carpetas, nombres, guardar, mover y recuperar. **Producto:** estructura organizada de carpetas con archivos ficticios.
 - **B3:** patrones, repeticiones, eventos y retos visuales (Code.org o equivalentes). **Producto:** algoritmo con repetición.
-- **B4:** comunicación respetuosa, archivos e integración. **Producto:** cuento digital con escenas.
+- **B4:** herramientas del presentador, formas/imágenes, orden de diapositivas, guardado y vista local. **Producto:** presentación de pasos para cuidar o usar un recurso tecnológico.
 
 ### 3.º primaria
 **Meta:** gestionar archivos, comunicar información y resolver problemas con instrucciones.
 - **B1:** archivos, carpetas, navegación, búsqueda segura y lógica. **Producto:** organizador de archivos y rutas.
-- **B2:** documentos con párrafos, listas, tablas de datos y presentaciones. **Producto:** miniinvestigación ilustrada.
+- **B2:** interfaz del procesador de texto, selección/edición, formato, listas, tablas, imágenes y archivos. **Producto:** ficha técnica de un dispositivo ficticio.
 - **B3:** secuencias, ciclos, eventos y depuración en Code.org. **Producto:** solución de retos documentada.
-- **B4:** fuentes, privacidad e integración. **Producto:** guía digital de un tema escolar.
+- **B4:** construir, reorganizar, guardar y presentar diapositivas para explicar una tarea digital. **Producto:** guía visual local de un procedimiento informático.
 
 ### 4.º primaria
 **Meta:** comprender sistemas digitales y elaborar documentos, tablas y soluciones estructuradas.
@@ -138,9 +138,9 @@ Las propuestas de 4.º y 5.º se articulan con la subárea TIC del CNB general d
 
 | Grado | Procesamiento de textos | Hojas de cálculo | Presentaciones |
 |---|---|---|---|
-| 1.º primaria | Letras, palabras, formato básico | Clasificación y tablas en papel | Imágenes y secuencias visuales |
-| 2.º primaria | Oraciones e imágenes | Tablas sencillas | Diapositivas con imágenes |
-| 3.º primaria | Párrafos, listas y formato | Filas, columnas y datos | Presentaciones breves |
+| 1.º primaria | Etiquetas breves en plantillas | Clasificación y tablas en papel | Formas, dibujo, edición y guardado local |
+| 2.º primaria | Etiquetas breves en plantillas | Árboles de carpetas y rutas | Crear, ordenar y presentar diapositivas |
+| 3.º primaria | Selección, formato, listas y tablas | Tablas de datos insertadas en documentos | Presentaciones de procedimientos y gestión de archivos |
 | 4.º primaria | Documentos estructurados | Tablas y gráficos básicos | Diseño de diapositivas |
 | 5.º primaria | Informes con imágenes | SUMA, PROMEDIO y gráficos | Presentaciones investigativas |
 | 6.º primaria | Informes con fuentes | Fórmulas y organización de datos | Exposiciones estructuradas |
@@ -196,40 +196,40 @@ Se cotejaron los 11 planes con la hoja 2027 del [calendario institucional](Calen
 
 ### 1.º primaria
 
-La planificación de **B1, B2, B3 y B4** está reunida en un solo archivo: [Primero_primaria_2027.md](Primero_primaria_2027.md). Incluye dosificación por clases, cuaderno, hojas imprimibles con claves, tareas sin computadora, prácticas digitales para Windows, parciales, heteroevaluaciones, proyectos, rúbricas y ponderaciones.
+La planificación anual funciona como [índice](Primero_primaria_2027.md); cada bimestre tiene su propio archivo: [B1](Primaria/1_primaria/B1.md), [B2](Primaria/1_primaria/B2.md), [B3](Primaria/1_primaria/B3.md) y [B4](Primaria/1_primaria/B4.md). B2 se centra en control del mouse, ventanas, dibujo y guardado; B4, en composición digital y recuperación de archivos.
 
 ### 2.º primaria
 
-La planificación de **todo el año (B1–B4)** está reunida en un solo archivo: [Segundo_primaria_2027.md](Segundo_primaria_2027.md). Incluye secuencia de clases, ejercicios de cuaderno, seis hojas imprimibles con claves por bimestre, tareas sin computadora, prácticas digitales en Windows, parciales, heteroevaluaciones, productos, rúbricas y ponderación sugerida.
+La planificación anual funciona como [índice](Segundo_primaria_2027.md); cada bimestre tiene su propio archivo: [B1](Primaria/2_primaria/B1.md), [B2](Primaria/2_primaria/B2.md), [B3](Primaria/2_primaria/B3.md) y [B4](Primaria/2_primaria/B4.md). B2 se centra en sistema de archivos; B4, en herramientas de presentaciones.
 
 ### 3.º primaria
 
-La planificación de **todo el año (B1–B4)** está reunida en un solo archivo: [Tercero_primaria_2027.md](Tercero_primaria_2027.md). Incluye organización de archivos, miniinvestigación, algoritmos visuales, guía digital, actividades evaluativas y alternativas sin conexión.
+La planificación anual funciona como [índice](Tercero_primaria_2027.md); cada bimestre tiene su propio archivo: [B1](Primaria/3_primaria/B1.md), [B2](Primaria/3_primaria/B2.md), [B3](Primaria/3_primaria/B3.md) y [B4](Primaria/3_primaria/B4.md). B2 practica el procesador de texto; B4, la presentación de procedimientos digitales.
 
 ### 4.º primaria
 
-La planificación de **todo el año (B1–B4)** está reunida en un solo archivo: [Cuarto_primaria_2027.md](Cuarto_primaria_2027.md). Incluye sistemas informáticos, informe con datos, algoritmos con decisiones y campaña educativa, además de materiales, evaluaciones y rúbricas.
+El [índice anual](Cuarto_primaria_2027.md) enlaza los archivos separados de [B1](Primaria/4_primaria/B1.md), [B2](Primaria/4_primaria/B2.md), [B3](Primaria/4_primaria/B3.md) y [B4](Primaria/4_primaria/B4.md).
 
 ### 5.º primaria
 
-La planificación de **todo el año (B1–B4)** está reunida en un solo archivo: [Quinto_primaria_2027.md](Quinto_primaria_2027.md). Incluye sistemas y seguridad, análisis de datos con hoja de cálculo, algoritmos con decisiones y un reporte de investigación.
+El [índice anual](Quinto_primaria_2027.md) enlaza los archivos separados de [B1](Primaria/5_primaria/B1.md), [B2](Primaria/5_primaria/B2.md), [B3](Primaria/5_primaria/B3.md) y [B4](Primaria/5_primaria/B4.md).
 
 ### 6.º primaria
 
-La planificación de **todo el año (B1–B4)** está reunida en un solo archivo: [Sexto_primaria_2027.md](Sexto_primaria_2027.md). Incluye redes y nube, análisis de datos, algoritmos probados y un proyecto de mejora escolar con privacidad e IA responsable.
+El [índice anual](Sexto_primaria_2027.md) enlaza los archivos separados de [B1](Primaria/6_primaria/B1.md), [B2](Primaria/6_primaria/B2.md), [B3](Primaria/6_primaria/B3.md) y [B4](Primaria/6_primaria/B4.md).
 
 ### Ciclo básico
 
-- [1.º básico — planificación anual](Primero_basico_2027.md)
-- [2.º básico — planificación anual](Segundo_basico_2027.md)
-- [3.º básico — planificación anual](Tercero_basico_2027.md)
+- [1.º básico — índice](Primero_basico_2027.md): [B1](Basico/1_basico/B1.md), [B2](Basico/1_basico/B2.md), [B3](Basico/1_basico/B3.md), [B4](Basico/1_basico/B4.md)
+- [2.º básico — índice](Segundo_basico_2027.md): [B1](Basico/2_basico/B1.md), [B2](Basico/2_basico/B2.md), [B3](Basico/2_basico/B3.md), [B4](Basico/2_basico/B4.md)
+- [3.º básico — índice](Tercero_basico_2027.md): [B1](Basico/3_basico/B1.md), [B2](Basico/3_basico/B2.md), [B3](Basico/3_basico/B3.md), [B4](Basico/3_basico/B4.md)
 
 Estos documentos usan el calendario institucional 2027 y el CNB de Guatemala como base, con CSTA, Computing de Inglaterra y Finlandia como referentes complementarios. Cada bimestre contempla las ventanas institucionales y alternativas en papel para las prácticas digitales.
 
 ### Bachillerato en Ciencias y Letras
 
-- [4.º bachillerato — planificación anual](Cuarto_bachillerato_2027.md)
-- [5.º bachillerato — planificación anual](Quinto_bachillerato_2027.md)
+- [4.º bachillerato — índice](Cuarto_bachillerato_2027.md): [B1](Bachillerato/4_bachillerato/B1.md), [B2](Bachillerato/4_bachillerato/B2.md), [B3](Bachillerato/4_bachillerato/B3.md), [B4](Bachillerato/4_bachillerato/B4.md)
+- [5.º bachillerato — índice](Quinto_bachillerato_2027.md): [B1](Bachillerato/5_bachillerato/B1.md), [B2](Bachillerato/5_bachillerato/B2.md), [B3](Bachillerato/5_bachillerato/B3.md), [B4](Bachillerato/5_bachillerato/B4.md)
 
 Ambos planes siguen la subárea TIC del CNB general de la carrera. 4.º trabaja operación de equipos, archivos, productividad, redes e investigación; 5.º progresa a comunicación web, bases de datos, consultas, automatización conceptual y proyectos probados. La programación textual no es eje ni requisito de estos planes.
 
