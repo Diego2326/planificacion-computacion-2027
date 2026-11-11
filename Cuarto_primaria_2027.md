@@ -9,4 +9,6 @@ La planificación está dividida por bimestre para consultar y trabajar cada uni
 
 **Planificación anual en un archivo con branding del colegio:** [Planificacion_4_primaria_2027.docx](Primaria/4_primaria/Planificacion_4_primaria_2027.docx)
 
-**PDF listo para imprimir:** [Imprimibles_4_primaria_2027.pdf](Primaria/4_primaria/Imprimibles_4_primaria_2027.pdf) · [HTML editable](Primaria/4_primaria/Imprimibles_4_primaria_2027.html)
+**PDF completo y HTML editable:** [Anual_4_primaria_2027.pdf](Materiales_para_imprimir/Primaria/4_primaria/Anual_4_primaria_2027.pdf) · [HTML](Materiales_para_imprimir/Primaria/4_primaria/Editable_4_primaria_2027.html)
+
+**PDFs separados por bimestre:** [B1](Materiales_para_imprimir/Primaria/4_primaria/B1_4_primaria_2027.pdf) · [B2](Materiales_para_imprimir/Primaria/4_primaria/B2_4_primaria_2027.pdf) · [B3](Materiales_para_imprimir/Primaria/4_primaria/B3_4_primaria_2027.pdf) · [B4](Materiales_para_imprimir/Primaria/4_primaria/B4_4_primaria_2027.pdf)

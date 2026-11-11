@@ -9,4 +9,6 @@ La planificación está dividida por bimestre para consultar y trabajar cada uni
 
 **Planificación anual en un archivo con branding del colegio:** [Planificacion_2_primaria_2027.docx](Primaria/2_primaria/Planificacion_2_primaria_2027.docx)
 
-**PDF listo para imprimir:** [Imprimibles_2_primaria_2027.pdf](Primaria/2_primaria/Imprimibles_2_primaria_2027.pdf) · [HTML editable](Primaria/2_primaria/Imprimibles_2_primaria_2027.html)
+**PDF completo y HTML editable:** [Anual_2_primaria_2027.pdf](Materiales_para_imprimir/Primaria/2_primaria/Anual_2_primaria_2027.pdf) · [HTML](Materiales_para_imprimir/Primaria/2_primaria/Editable_2_primaria_2027.html)
+
+**PDFs separados por bimestre:** [B1](Materiales_para_imprimir/Primaria/2_primaria/B1_2_primaria_2027.pdf) · [B2](Materiales_para_imprimir/Primaria/2_primaria/B2_2_primaria_2027.pdf) · [B3](Materiales_para_imprimir/Primaria/2_primaria/B3_2_primaria_2027.pdf) · [B4](Materiales_para_imprimir/Primaria/2_primaria/B4_2_primaria_2027.pdf)

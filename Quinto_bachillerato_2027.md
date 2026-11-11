@@ -9,4 +9,6 @@ La planificación está dividida por bimestre para consultar y trabajar cada uni
 
 **Planificación anual en un archivo con branding del colegio:** [Planificacion_5_bachillerato_2027.docx](Bachillerato/5_bachillerato/Planificacion_5_bachillerato_2027.docx)
 
-**PDF listo para imprimir:** [Imprimibles_5_bachillerato_2027.pdf](Bachillerato/5_bachillerato/Imprimibles_5_bachillerato_2027.pdf) · [HTML editable](Bachillerato/5_bachillerato/Imprimibles_5_bachillerato_2027.html)
+**PDF completo y HTML editable:** [Anual_5_bachillerato_2027.pdf](Materiales_para_imprimir/Bachillerato/5_bachillerato/Anual_5_bachillerato_2027.pdf) · [HTML](Materiales_para_imprimir/Bachillerato/5_bachillerato/Editable_5_bachillerato_2027.html)
+
+**PDFs separados por bimestre:** [B1](Materiales_para_imprimir/Bachillerato/5_bachillerato/B1_5_bachillerato_2027.pdf) · [B2](Materiales_para_imprimir/Bachillerato/5_bachillerato/B2_5_bachillerato_2027.pdf) · [B3](Materiales_para_imprimir/Bachillerato/5_bachillerato/B3_5_bachillerato_2027.pdf) · [B4](Materiales_para_imprimir/Bachillerato/5_bachillerato/B4_5_bachillerato_2027.pdf)

@@ -14,4 +14,6 @@ Material imprimible para todo el grado: guías docentes, secuencias flexibles, t
 - [Materiales B3](Primaria/1_primaria/Materiales_B3.docx)
 - [Materiales B4](Primaria/1_primaria/Materiales_B4.docx)
 
-**PDF listo para imprimir:** [Imprimibles_1_primaria_2027.pdf](Primaria/1_primaria/Imprimibles_1_primaria_2027.pdf) · [HTML editable](Primaria/1_primaria/Imprimibles_1_primaria_2027.html)
+**PDF completo y HTML editable:** [Anual_1_primaria_2027.pdf](Materiales_para_imprimir/Primaria/1_primaria/Anual_1_primaria_2027.pdf) · [HTML](Materiales_para_imprimir/Primaria/1_primaria/Editable_1_primaria_2027.html)
+
+**PDFs separados por bimestre:** [B1](Materiales_para_imprimir/Primaria/1_primaria/B1_1_primaria_2027.pdf) · [B2](Materiales_para_imprimir/Primaria/1_primaria/B2_1_primaria_2027.pdf) · [B3](Materiales_para_imprimir/Primaria/1_primaria/B3_1_primaria_2027.pdf) · [B4](Materiales_para_imprimir/Primaria/1_primaria/B4_1_primaria_2027.pdf)

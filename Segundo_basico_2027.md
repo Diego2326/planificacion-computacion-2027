@@ -9,4 +9,6 @@ La planificación está dividida por bimestre para consultar y trabajar cada uni
 
 **Planificación anual en un archivo con branding del colegio:** [Planificacion_2_basico_2027.docx](Basico/2_basico/Planificacion_2_basico_2027.docx)
 
-**PDF listo para imprimir:** [Imprimibles_2_basico_2027.pdf](Basico/2_basico/Imprimibles_2_basico_2027.pdf) · [HTML editable](Basico/2_basico/Imprimibles_2_basico_2027.html)
+**PDF completo y HTML editable:** [Anual_2_basico_2027.pdf](Materiales_para_imprimir/Basico/2_basico/Anual_2_basico_2027.pdf) · [HTML](Materiales_para_imprimir/Basico/2_basico/Editable_2_basico_2027.html)
+
+**PDFs separados por bimestre:** [B1](Materiales_para_imprimir/Basico/2_basico/B1_2_basico_2027.pdf) · [B2](Materiales_para_imprimir/Basico/2_basico/B2_2_basico_2027.pdf) · [B3](Materiales_para_imprimir/Basico/2_basico/B3_2_basico_2027.pdf) · [B4](Materiales_para_imprimir/Basico/2_basico/B4_2_basico_2027.pdf)
