@@ -47,3 +47,56 @@ h1, .markdown-content h1 { color: var(--title); }
 .markdown-content th { color: var(--title); }
 .printables-group summary { color: var(--title); }
 .file-label { color: var(--title); }
+
+/* Softer cool background and slightly larger reading type. */
+:root {
+  font-size: 15px;
+  --bg: #f1f6fc;
+  --surface: #ffffff;
+  --surface-soft: #e9f1fa;
+  --text: #1f2b3a;
+  --muted: #64748b;
+  --line: #d7e2ee;
+  --input: #ffffff;
+  --shadow: 0 2px 6px rgba(35, 70, 110, .06);
+}
+:root[data-theme="dark"] {
+  --bg: #111923;
+  --surface: #1a2633;
+  --surface-soft: #223243;
+  --text: #ecf3fa;
+  --muted: #afc0d0;
+  --line: #34485b;
+  --input: #172330;
+  --shadow: 0 2px 8px rgba(0, 0, 0, .18);
+}
+.page-intro h1 { font-size: 30px; }
+.intro-text { font-size: 14px; }
+.catalog-counts { font-size: 12px; }
+.catalog-counts strong { font-size: 14px; }
+.kicker { font-size: 11px; }
+.grade-heading h2 { font-size: 23px; }
+.grade-button span, .bimester-name strong { font-size: 13px; }
+.grade-button small, .bimester-name small, .muted { font-size: 11px; }
+.section-title h2, .section-title h3 { font-size: 15px; }
+.markdown-content { font-size: 14px; }
+.markdown-content h1 { font-size: 25px; }
+.markdown-content h2 { font-size: 20px; }
+.markdown-content h3 { font-size: 16px; }
+.markdown-content h4 { font-size: 14px; }
+.markdown-content table { font-size: 12px; }
+.markdown-content th, .markdown-content td { padding: 9px 10px; }
+@media(min-width:1100px) {
+  .markdown-content { font-size: 15px; }
+  .markdown-content table { font-size: 13px; }
+  .markdown-content th, .markdown-content td { min-width: 125px; padding: 11px 13px; }
+}
+@media(max-width:480px) {
+  .page-intro h1 { font-size: 25px; }
+  .grade-heading h2 { font-size: 20px; }
+  .markdown-content { font-size: 12px; }
+  .markdown-content h1 { font-size: 21px; }
+  .markdown-content h2 { font-size: 18px; }
+  .markdown-content h3 { font-size: 15px; }
+  .markdown-content table { font-size: 11px; }
+}
