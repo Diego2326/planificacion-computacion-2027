@@ -94,7 +94,11 @@
       const response = await fetch(`${baseUrl}${bimester.markdownPath}`);
       if (!response.ok) throw new Error('No se pudo cargar el plan.');
       const markdown = await response.text();
-      planHtmlCache = { ...planHtmlCache, [bimester.id]: marked.parse(markdown) };
+      const planFirst = markdown.replace(
+        /^### Imprimibles individuales\s*\n(?:\s*\n|- \[Hoja .*?\(PDF\)\]\([^\n]+\)\s*\n)+/im,
+        '',
+      );
+      planHtmlCache = { ...planHtmlCache, [bimester.id]: marked.parse(planFirst) };
     } catch {
       planLoadErrorId = bimester.id;
     } finally {
@@ -103,11 +107,12 @@
   }
 
   function togglePlan(bimester) {
-    openBimester = bimester.code;
     if (shownPlanId === bimester.id) {
       shownPlanId = '';
+      openBimester = '';
       return;
     }
+    openBimester = bimester.code;
     shownPlanId = bimester.id;
     loadPlan(bimester);
   }
@@ -216,47 +221,53 @@
         <section class="grade-content">
           <div class="grade-heading">
             <div><p class="kicker">{selectedGrade.level}</p><h2>{selectedGrade.label}</h2><p class="muted">Computación · 4 bimestres · {selectedGrade.sheetCount} hojas individuales</p></div>
-            <div class="annual-links">
-              {#if selectedGrade.yearPdfUrl}<a href={selectedGrade.yearPdfUrl} target="_blank" rel="noreferrer">PDF anual <span>↗</span></a>{/if}
-              {#if selectedGrade.planningDocxUrl}<a href={selectedGrade.planningDocxUrl} target="_blank" rel="noreferrer">Planificación DOCX <span>↗</span></a>{/if}
-              {#if selectedGrade.htmlUrl}<a href={selectedGrade.htmlUrl} target="_blank" rel="noreferrer">HTML editable <span>↗</span></a>{/if}
-            </div>
           </div>
 
-          <div class="section-title bimesters-title"><h3>Planificación anual</h3><span>Cuatro unidades · planes completos y hojas por separado</span></div>
+          <div class="section-title bimesters-title"><h3>Planificación anual</h3><span>Abre un bimestre para ver primero el plan completo</span></div>
           <div class="bimester-list">
             {#each selectedGrade.bimesters as bimester}
               <article class="bimester">
                 <div class="bimester-header">
-                  <button class="bimester-toggle" aria-expanded={openBimester === bimester.code} onclick={() => openBimester = openBimester === bimester.code ? '' : bimester.code}>
+                  <button class="bimester-toggle" aria-expanded={shownPlanId === bimester.id} onclick={() => togglePlan(bimester)}>
                     <span class="bimester-code">{bimester.code}</span>
-                    <span class="bimester-name"><strong>{bimester.title}</strong><small>{bimester.label} · {bimester.sheets.length} hojas</small></span>
-                    <span class="expand" aria-hidden="true">{openBimester === bimester.code ? '−' : '+'}</span>
+                    <span class="bimester-name"><strong>{bimester.title}</strong><small>{bimester.label} · planificación completa · {bimester.sheets.length} materiales</small></span>
+                    <span class="expand" aria-hidden="true">{shownPlanId === bimester.id ? '−' : '+'}</span>
                   </button>
-                  <button class="plan-link" onclick={() => togglePlan(bimester)} aria-expanded={shownPlanId === bimester.id}>{shownPlanId === bimester.id ? 'Cerrar plan' : 'Plan completo'}</button>
                 </div>
-                {#if openBimester === bimester.code}
-                  <div class="sheet-list">
-                    {#each bimester.sheets as sheet}
-                      <a class="sheet-row" href={sheet.url} target="_blank" rel="noreferrer">
-                        <span class="sheet-no">{String(sheet.number).padStart(2, '0')}</span>
-                        <span>{sheet.title}</span>
-                        <span class="download">PDF ↓</span>
-                      </a>
-                    {/each}
-                  </div>
-                {/if}
                 {#if shownPlanId === bimester.id}
                   <section class="full-plan" id={`plan-${bimester.id}`}>
-                    <div class="plan-toolbar"><strong>{bimester.label} · Planificación completa</strong><a href={bimester.planUrl} target="_blank" rel="noreferrer">Abrir Markdown original ↗</a></div>
+                    <div class="plan-toolbar"><strong>{bimester.label} · Planificación completa</strong><a href={bimester.planUrl} target="_blank" rel="noreferrer">Ver archivo fuente ↗</a></div>
                     {#if loadingPlanId === bimester.id}<p class="plan-status">Cargando planificación…</p>
                     {:else if planLoadErrorId === bimester.id}<p class="plan-status">No se pudo cargar el plan. <button onclick={() => loadPlan(bimester)}>Volver a intentar</button></p>
                     {:else}<div class="markdown-content">{@html planHtmlCache[bimester.id] ?? ''}</div>{/if}
                   </section>
+                  <details class="printables-group">
+                    <summary><strong>Materiales para imprimir</strong><span>{bimester.sheets.length} archivos PDF</span></summary>
+                    <div class="sheet-list">
+                      {#each bimester.sheets as sheet}
+                        <a class="sheet-row" href={sheet.url} target="_blank" rel="noreferrer">
+                          <span class="sheet-no">{String(sheet.number).padStart(2, '0')}</span>
+                          <span>{sheet.title}</span>
+                          <span class="download">Abrir PDF ↓</span>
+                        </a>
+                      {/each}
+                    </div>
+                  </details>
                 {/if}
               </article>
             {/each}
           </div>
+
+          {#if selectedGrade.yearPdfUrl || selectedGrade.planningDocxUrl || selectedGrade.htmlUrl}
+            <details class="grade-files">
+              <summary>Otros archivos del grado</summary>
+              <div class="annual-links">
+                {#if selectedGrade.yearPdfUrl}<a href={selectedGrade.yearPdfUrl} target="_blank" rel="noreferrer">Plan anual PDF <span>↗</span></a>{/if}
+                {#if selectedGrade.planningDocxUrl}<a href={selectedGrade.planningDocxUrl} target="_blank" rel="noreferrer">DOCX editable <span>↗</span></a>{/if}
+                {#if selectedGrade.htmlUrl}<a href={selectedGrade.htmlUrl} target="_blank" rel="noreferrer">HTML editable <span>↗</span></a>{/if}
+              </div>
+            </details>
+          {/if}
         </section>
       {/if}
     </div>
