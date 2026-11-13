@@ -7,3 +7,43 @@
 @media(max-width:480px){.full-plan{padding:0 10px 12px}.plan-toolbar{align-items:flex-start;flex-direction:column;gap:6px}.markdown-content{font-size:11px;padding-top:12px}.markdown-content h1{font-size:19px}.markdown-content h2{font-size:16px}.markdown-content table{font-size:10px}}
 .printables-group{margin:0 16px 14px 57px;border-top:1px solid var(--line)}.printables-group summary,.grade-files summary{display:flex;align-items:center;gap:10px;cursor:pointer;list-style:none}.printables-group summary::-webkit-details-marker,.grade-files summary::-webkit-details-marker{display:none}.printables-group summary{padding:12px 0;color:var(--link);font-size:11px}.printables-group summary::before,.grade-files summary::before{content:"+";color:var(--muted);font-size:15px}.printables-group[open] summary::before,.grade-files[open] summary::before{content:"−"}.printables-group summary span{color:var(--muted);font-size:10px}.printables-group .sheet-list{padding:0 0 5px;border-top:1px solid var(--line)}.grade-files{margin-top:12px;padding:0 13px;background:var(--surface);border:1px solid var(--line);border-radius:7px}.grade-files summary{padding:11px 0;font-size:11px;color:var(--muted)}.grade-files .annual-links{justify-content:flex-start;padding:0 0 12px}.grade-files[open] summary{border-bottom:1px solid var(--line)}
 @media(max-width:480px){.printables-group{margin:0 10px 12px 36px}.printables-group .sheet-list{padding-right:0}.grade-files{margin-top:10px}}
+
+/* Wider, more comfortable planning workspace on desktop. */
+:root {
+  --accent: #2563eb;
+  --accent-soft: #eaf2ff;
+  --link: #1d4ed8;
+  --title: #1e40af;
+  --title-secondary: #0f766e;
+  --title-tertiary: #7c3aed;
+}
+:root[data-theme="dark"] {
+  --accent: #79aaff;
+  --accent-soft: #202f4a;
+  --link: #9bc0ff;
+  --title: #9bbcff;
+  --title-secondary: #72d6c3;
+  --title-tertiary: #c1a4ff;
+}
+@media(min-width:1100px) {
+  .page { max-width: 1580px; padding-left: 36px; padding-right: 36px; }
+  .topbar { padding-left: max(36px, calc((100% - 1508px)/2)); padding-right: max(36px, calc((100% - 1508px)/2)); }
+  .browser-layout { grid-template-columns: 245px minmax(0, 1fr); gap: 26px; }
+  .grade-heading { padding: 22px 24px; }
+  .bimester-list { gap: 11px; }
+  .markdown-content { max-width: none; padding: 18px 16px 10px; font-size: 13px; }
+  .markdown-content p, .markdown-content li, .markdown-content blockquote { max-width: 1120px; }
+  .markdown-content table { font-size: 12px; }
+  .markdown-content th, .markdown-content td { min-width: 115px; padding: 10px 12px; }
+}
+h1, .markdown-content h1 { color: var(--title); }
+.kicker, .section-title h3 { color: var(--title-secondary); }
+.grade-heading h2 { color: var(--title); }
+.bimester-name strong { color: var(--title); }
+.bimester-code { background: var(--accent-soft); color: var(--accent); }
+.markdown-content h2 { color: var(--title); padding-bottom: 5px; border-bottom: 1px solid var(--line); }
+.markdown-content h3 { color: var(--title-secondary); border-left: 3px solid var(--title-secondary); padding-left: 9px; }
+.markdown-content h4 { color: var(--title-tertiary); }
+.markdown-content th { color: var(--title); }
+.printables-group summary { color: var(--title); }
+.file-label { color: var(--title); }
